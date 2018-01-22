@@ -3,21 +3,21 @@
     {
       "children": [
         {
-          "label": "Products",
+          "label": "SELF: Products",
           "name": "self",
           "size": 980566
         },
         {
           "children": [
             {
-              "label": "Products/Home",
+              "label": "SELF: Home",
               "name": "self",
               "size": 158553
             },
             {
               "children": [
                 {
-                  "label": "Products/Home/Pets",
+                  "label": "SELF: Pets",
                   "name": "self",
                   "size": 8138
                 },
@@ -29,7 +29,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Home/Pets/Food",
+                      "label": "SELF: Food",
                       "name": "self",
                       "size": 319
                     },
@@ -61,7 +61,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Home/Pets/Treats",
+                      "label": "SELF: Treats",
                       "name": "self",
                       "size": 266
                     },
@@ -93,7 +93,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Home/Pets/Grooming",
+                      "label": "SELF: Grooming",
                       "name": "self",
                       "size": 84
                     },
@@ -120,7 +120,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Home/Pets/Collars & Leashes",
+                      "label": "SELF: Collars & Leashes",
                       "name": "self",
                       "size": 879
                     },
@@ -142,7 +142,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Home/Pets/Houses, Habitats & Furniture",
+                      "label": "SELF: Houses, Habitats & Furniture",
                       "name": "self",
                       "size": 219
                     },
@@ -189,7 +189,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Home/Holiday",
+                  "label": "SELF: Holiday",
                   "name": "self",
                   "size": 368
                 },
@@ -231,14 +231,14 @@
             {
               "children": [
                 {
-                  "label": "Products/Home/Bedding & Bath",
+                  "label": "SELF: Bedding & Bath",
                   "name": "self",
                   "size": 677
                 },
                 {
                   "children": [
                     {
-                      "label": "Products/Home/Bedding & Bath/Bath",
+                      "label": "SELF: Bath",
                       "name": "self",
                       "size": 7711
                     },
@@ -255,7 +255,7 @@
                     {
                       "children": [
                         {
-                          "label": "Products/Home/Bedding & Bath/Bath/Bathroom Accessories",
+                          "label": "SELF: Bathroom Accessories",
                           "name": "self",
                           "size": 31691
                         },
@@ -277,7 +277,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Home/Bedding & Bath/Bedding",
+                      "label": "SELF: Bedding",
                       "name": "self",
                       "size": 14894
                     },
@@ -334,7 +334,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Home/Home Appliances",
+                  "label": "SELF: Home Appliances",
                   "name": "self",
                   "size": 10006
                 },
@@ -346,14 +346,14 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Home/Home Appliances/Irons, Steamers & Accessories",
+                      "label": "SELF: Irons, Steamers & Accessories",
                       "name": "self",
                       "size": 219
                     },
                     {
                       "children": [
                         {
-                          "label": "Products/Home/Home Appliances/Irons, Steamers & Accessories/Irons",
+                          "label": "SELF: Irons",
                           "name": "self",
                           "size": 259
                         },
@@ -385,7 +385,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Home/Kitchen & Dining",
+                  "label": "SELF: Kitchen & Dining",
                   "name": "self",
                   "size": 47634
                 },
@@ -397,7 +397,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Home/Kitchen & Dining/Cookware",
+                      "label": "SELF: Cookware",
                       "name": "self",
                       "size": 6735
                     },
@@ -414,7 +414,7 @@
                     {
                       "children": [
                         {
-                          "label": "Products/Home/Kitchen & Dining/Cookware/Pots & Pans",
+                          "label": "SELF: Pots & Pans",
                           "name": "self",
                           "size": 969
                         },
@@ -451,7 +451,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Home/Kitchen & Dining/Tableware",
+                      "label": "SELF: Tableware",
                       "name": "self",
                       "size": 8650
                     },
@@ -508,14 +508,14 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Home/Kitchen & Dining/Kitchen Knives & Cutlery Accessories",
+                      "label": "SELF: Kitchen Knives & Cutlery Accessories",
                       "name": "self",
                       "size": 2464
                     },
                     {
                       "children": [
                         {
-                          "label": "Products/Home/Kitchen & Dining/Kitchen Knives & Cutlery Accessories/Cutlery Sets",
+                          "label": "SELF: Cutlery Sets",
                           "name": "self",
                           "size": 1047
                         },
@@ -542,7 +542,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Home/Furniture & D\u00e9cor",
+                  "label": "SELF: Furniture & D\u00e9cor",
                   "name": "self",
                   "size": 11047
                 },
@@ -559,7 +559,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor",
+                      "label": "SELF: Home D\u00e9cor",
                       "name": "self",
                       "size": 161746
                     },
@@ -576,7 +576,7 @@
                     {
                       "children": [
                         {
-                          "label": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Window Treatments",
+                          "label": "SELF: Window Treatments",
                           "name": "self",
                           "size": 2825
                         },
@@ -633,7 +633,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Home/Cleaning & Storage",
+                  "label": "SELF: Cleaning & Storage",
                   "name": "self",
                   "size": 13137
                 },
@@ -650,7 +650,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Home/Event & Party Supplies",
+                  "label": "SELF: Event & Party Supplies",
                   "name": "self",
                   "size": 669
                 },
@@ -667,14 +667,14 @@
             {
               "children": [
                 {
-                  "label": "Products/Home/Luggage, Bags & Travel",
+                  "label": "SELF: Luggage, Bags & Travel",
                   "name": "self",
                   "size": 8453
                 },
                 {
                   "children": [
                     {
-                      "label": "Products/Home/Luggage, Bags & Travel/Luggage",
+                      "label": "SELF: Luggage",
                       "name": "self",
                       "size": 9354
                     },
@@ -701,7 +701,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Home/Luggage, Bags & Travel/Bags & Backpacks",
+                      "label": "SELF: Bags & Backpacks",
                       "name": "self",
                       "size": 24276
                     },
@@ -743,7 +743,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Home/Tools & Home Improvement",
+                  "label": "SELF: Tools & Home Improvement",
                   "name": "self",
                   "size": 16123
                 },
@@ -765,21 +765,21 @@
         {
           "children": [
             {
-              "label": "Products/Men's",
+              "label": "SELF: Men's",
               "name": "self",
               "size": 25347
             },
             {
               "children": [
                 {
-                  "label": "Products/Men's/Shoes",
+                  "label": "SELF: Shoes",
                   "name": "self",
                   "size": 36137
                 },
                 {
                   "children": [
                     {
-                      "label": "Products/Men's/Shoes/Dress",
+                      "label": "SELF: Dress",
                       "name": "self",
                       "size": 2675
                     },
@@ -811,7 +811,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Men's/Shoes/Sandals",
+                      "label": "SELF: Sandals",
                       "name": "self",
                       "size": 2400
                     },
@@ -858,7 +858,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Men's/Jewelry",
+                  "label": "SELF: Jewelry",
                   "name": "self",
                   "size": 10950
                 },
@@ -885,7 +885,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Men's/Clothing",
+                  "label": "SELF: Clothing",
                   "name": "self",
                   "size": 57573
                 },
@@ -917,14 +917,14 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Men's/Clothing/Active",
+                      "label": "SELF: Active",
                       "name": "self",
                       "size": 5703
                     },
                     {
                       "children": [
                         {
-                          "label": "Products/Men's/Clothing/Active/Pants",
+                          "label": "SELF: Pants",
                           "name": "self",
                           "size": 3624
                         },
@@ -956,7 +956,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Men's/Clothing/Sweaters",
+                      "label": "SELF: Sweaters",
                       "name": "self",
                       "size": 4909
                     },
@@ -978,7 +978,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Men's/Clothing/Shirts & Polos",
+                      "label": "SELF: Shirts & Polos",
                       "name": "self",
                       "size": 76562
                     },
@@ -1000,7 +1000,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Men's/Clothing/Coats & Jackets",
+                      "label": "SELF: Coats & Jackets",
                       "name": "self",
                       "size": 19499
                     },
@@ -1037,7 +1037,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Men's/Clothing/Sleepwear & Robes",
+                      "label": "SELF: Sleepwear & Robes",
                       "name": "self",
                       "size": 2300
                     },
@@ -1059,7 +1059,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Men's/Clothing/Suits & Sport Coats",
+                      "label": "SELF: Suits & Sport Coats",
                       "name": "self",
                       "size": 599
                     },
@@ -1086,7 +1086,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Men's/Specialty",
+                  "label": "SELF: Specialty",
                   "name": "self",
                   "size": 12
                 },
@@ -1123,7 +1123,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Men's/Accessories",
+                  "label": "SELF: Accessories",
                   "name": "self",
                   "size": 14629
                 },
@@ -1175,14 +1175,14 @@
         {
           "children": [
             {
-              "label": "Products/Women's",
+              "label": "SELF: Women's",
               "name": "self",
               "size": 36441
             },
             {
               "children": [
                 {
-                  "label": "Products/Women's/Bags",
+                  "label": "SELF: Bags",
                   "name": "self",
                   "size": 9199
                 },
@@ -1194,7 +1194,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Bags/Handbags",
+                      "label": "SELF: Handbags",
                       "name": "self",
                       "size": 21769
                     },
@@ -1231,7 +1231,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Women's/Shoes",
+                  "label": "SELF: Shoes",
                   "name": "self",
                   "size": 47946
                 },
@@ -1243,7 +1243,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Shoes/Boots",
+                      "label": "SELF: Boots",
                       "name": "self",
                       "size": 31184
                     },
@@ -1280,7 +1280,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Shoes/Sandals",
+                      "label": "SELF: Sandals",
                       "name": "self",
                       "size": 37693
                     },
@@ -1302,7 +1302,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Shoes/Sneakers",
+                      "label": "SELF: Sneakers",
                       "name": "self",
                       "size": 31703
                     },
@@ -1344,7 +1344,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Women's/Jewelry",
+                  "label": "SELF: Jewelry",
                   "name": "self",
                   "size": 4107
                 },
@@ -1401,7 +1401,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Women's/Juniors'",
+                  "label": "SELF: Juniors'",
                   "name": "self",
                   "size": 37
                 },
@@ -1413,7 +1413,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Juniors'/Clothing",
+                      "label": "SELF: Clothing",
                       "name": "self",
                       "size": 739
                     },
@@ -1475,7 +1475,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Juniors'/Accessories",
+                      "label": "SELF: Accessories",
                       "name": "self",
                       "size": 57
                     },
@@ -1502,14 +1502,14 @@
             {
               "children": [
                 {
-                  "label": "Products/Women's/Clothing",
+                  "label": "SELF: Clothing",
                   "name": "self",
                   "size": 83770
                 },
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Clothing/Swim",
+                      "label": "SELF: Swim",
                       "name": "self",
                       "size": 20904
                     },
@@ -1526,7 +1526,7 @@
                     {
                       "children": [
                         {
-                          "label": "Products/Women's/Clothing/Swim/Two-Pieces",
+                          "label": "SELF: Two-Pieces",
                           "name": "self",
                           "size": 6058
                         },
@@ -1553,7 +1553,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Clothing/Pants",
+                      "label": "SELF: Pants",
                       "name": "self",
                       "size": 26294
                     },
@@ -1590,7 +1590,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Clothing/Active",
+                      "label": "SELF: Active",
                       "name": "self",
                       "size": 16383
                     },
@@ -1627,7 +1627,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Clothing/Dresses",
+                      "label": "SELF: Dresses",
                       "name": "self",
                       "size": 128636
                     },
@@ -1649,7 +1649,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Clothing/Sweaters",
+                      "label": "SELF: Sweaters",
                       "name": "self",
                       "size": 15856
                     },
@@ -1691,7 +1691,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Clothing/Maternity",
+                      "label": "SELF: Maternity",
                       "name": "self",
                       "size": 4437
                     },
@@ -1728,7 +1728,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Clothing/Intimates",
+                      "label": "SELF: Intimates",
                       "name": "self",
                       "size": 14286
                     },
@@ -1755,7 +1755,7 @@
                     {
                       "children": [
                         {
-                          "label": "Products/Women's/Clothing/Intimates/Shapewear",
+                          "label": "SELF: Shapewear",
                           "name": "self",
                           "size": 2361
                         },
@@ -1787,7 +1787,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Clothing/Tops & Tees",
+                      "label": "SELF: Tops & Tees",
                       "name": "self",
                       "size": 77922
                     },
@@ -1824,7 +1824,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Clothing/Coats & Jackets",
+                      "label": "SELF: Coats & Jackets",
                       "name": "self",
                       "size": 23818
                     },
@@ -1866,7 +1866,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Clothing/Socks & Hosiery",
+                      "label": "SELF: Socks & Hosiery",
                       "name": "self",
                       "size": 1631
                     },
@@ -1898,7 +1898,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Clothing/Sleepwear & Robes",
+                      "label": "SELF: Sleepwear & Robes",
                       "name": "self",
                       "size": 2265
                     },
@@ -1910,7 +1910,7 @@
                     {
                       "children": [
                         {
-                          "label": "Products/Women's/Clothing/Sleepwear & Robes/Pajamas",
+                          "label": "SELF: Pajamas",
                           "name": "self",
                           "size": 4492
                         },
@@ -1937,7 +1937,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Women's/Clothing/Suits & Separates",
+                      "label": "SELF: Suits & Separates",
                       "name": "self",
                       "size": 1218
                     },
@@ -1949,7 +1949,7 @@
                     {
                       "children": [
                         {
-                          "label": "Products/Women's/Clothing/Suits & Separates/Blazers & Suit Jackets",
+                          "label": "SELF: Blazers & Suit Jackets",
                           "name": "self",
                           "size": 2320
                         },
@@ -1981,7 +1981,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Women's/Specialty",
+                  "label": "SELF: Specialty",
                   "name": "self",
                   "size": 4
                 },
@@ -2013,7 +2013,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Women's/Accessories",
+                  "label": "SELF: Accessories",
                   "name": "self",
                   "size": 14017
                 },
@@ -2060,7 +2060,7 @@
         {
           "children": [
             {
-              "label": "Products/Electronics",
+              "label": "SELF: Electronics",
               "name": "self",
               "size": 38522
             },
@@ -2077,7 +2077,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Electronics/Cell Phones",
+                  "label": "SELF: Cell Phones",
                   "name": "self",
                   "size": 1132
                 },
@@ -2104,7 +2104,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Electronics/Video Gaming",
+                  "label": "SELF: Video Gaming",
                   "name": "self",
                   "size": 8190
                 },
@@ -2136,7 +2136,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Electronics/Car Electronics",
+                  "label": "SELF: Car Electronics",
                   "name": "self",
                   "size": 1464
                 },
@@ -2158,7 +2158,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Electronics/Office Electronics",
+                  "label": "SELF: Office Electronics",
                   "name": "self",
                   "size": 6024
                 },
@@ -2175,7 +2175,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Electronics/Computers & Tablets",
+                  "label": "SELF: Computers & Tablets",
                   "name": "self",
                   "size": 1130
                 },
@@ -2192,7 +2192,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Electronics/Computers & Tablets/Desktops & Laptops",
+                      "label": "SELF: Desktops & Laptops",
                       "name": "self",
                       "size": 98
                     },
@@ -2224,7 +2224,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Electronics/Computers & Tablets/Tablets & E-Readers",
+                      "label": "SELF: Tablets & E-Readers",
                       "name": "self",
                       "size": 18
                     },
@@ -2256,7 +2256,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Electronics/Cameras & Camcorders",
+                  "label": "SELF: Cameras & Camcorders",
                   "name": "self",
                   "size": 63
                 },
@@ -2283,7 +2283,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Electronics/Audio & Home Theater",
+                  "label": "SELF: Audio & Home Theater",
                   "name": "self",
                   "size": 1591
                 },
@@ -2295,7 +2295,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Electronics/Audio & Home Theater/Home Audio",
+                      "label": "SELF: Home Audio",
                       "name": "self",
                       "size": 601
                     },
@@ -2322,7 +2322,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Electronics/Audio & Home Theater/Portable Audio",
+                      "label": "SELF: Portable Audio",
                       "name": "self",
                       "size": 555
                     },
@@ -2359,14 +2359,14 @@
         {
           "children": [
             {
-              "label": "Products/Toys & Games",
+              "label": "SELF: Toys & Games",
               "name": "self",
               "size": 36163
             },
             {
               "children": [
                 {
-                  "label": "Products/Toys & Games/Games",
+                  "label": "SELF: Games",
                   "name": "self",
                   "size": 10039
                 },
@@ -2398,21 +2398,21 @@
         {
           "children": [
             {
-              "label": "Products/Kids' & Baby",
+              "label": "SELF: Kids' & Baby",
               "name": "self",
               "size": 11709
             },
             {
               "children": [
                 {
-                  "label": "Products/Kids' & Baby/Boys'",
+                  "label": "SELF: Boys'",
                   "name": "self",
                   "size": 2502
                 },
                 {
                   "children": [
                     {
-                      "label": "Products/Kids' & Baby/Boys'/Shoes",
+                      "label": "SELF: Shoes",
                       "name": "self",
                       "size": 1815
                     },
@@ -2444,7 +2444,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Kids' & Baby/Boys'/Clothing",
+                      "label": "SELF: Clothing",
                       "name": "self",
                       "size": 2330
                     },
@@ -2476,7 +2476,7 @@
                     {
                       "children": [
                         {
-                          "label": "Products/Kids' & Baby/Boys'/Clothing/Active",
+                          "label": "SELF: Active",
                           "name": "self",
                           "size": 1762
                         },
@@ -2518,7 +2518,7 @@
                     {
                       "children": [
                         {
-                          "label": "Products/Kids' & Baby/Boys'/Clothing/Shirts & Polos",
+                          "label": "SELF: Shirts & Polos",
                           "name": "self",
                           "size": 12033
                         },
@@ -2545,14 +2545,14 @@
                     {
                       "children": [
                         {
-                          "label": "Products/Kids' & Baby/Boys'/Clothing/Sleepwear & Robes",
+                          "label": "SELF: Sleepwear & Robes",
                           "name": "self",
                           "size": 92
                         },
                         {
                           "children": [
                             {
-                              "label": "Products/Kids' & Baby/Boys'/Clothing/Sleepwear & Robes/Pajamas",
+                              "label": "SELF: Pajamas",
                               "name": "self",
                               "size": 374
                             },
@@ -2584,7 +2584,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Kids' & Baby/Boys'/Specialty",
+                      "label": "SELF: Specialty",
                       "name": "self",
                       "size": 1
                     },
@@ -2606,7 +2606,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Kids' & Baby/Boys'/Accessories",
+                      "label": "SELF: Accessories",
                       "name": "self",
                       "size": 14785
                     },
@@ -2638,7 +2638,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Kids' & Baby/Girls'",
+                  "label": "SELF: Girls'",
                   "name": "self",
                   "size": 7076
                 },
@@ -2650,7 +2650,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Kids' & Baby/Girls'/Shoes",
+                      "label": "SELF: Shoes",
                       "name": "self",
                       "size": 6022
                     },
@@ -2692,7 +2692,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Kids' & Baby/Girls'/Clothing",
+                      "label": "SELF: Clothing",
                       "name": "self",
                       "size": 7275
                     },
@@ -2704,7 +2704,7 @@
                     {
                       "children": [
                         {
-                          "label": "Products/Kids' & Baby/Girls'/Clothing/Pants",
+                          "label": "SELF: Pants",
                           "name": "self",
                           "size": 2839
                         },
@@ -2781,14 +2781,14 @@
                     {
                       "children": [
                         {
-                          "label": "Products/Kids' & Baby/Girls'/Clothing/Sleepwear & Robes",
+                          "label": "SELF: Sleepwear & Robes",
                           "name": "self",
                           "size": 240
                         },
                         {
                           "children": [
                             {
-                              "label": "Products/Kids' & Baby/Girls'/Clothing/Sleepwear & Robes/Pajamas",
+                              "label": "SELF: Pajamas",
                               "name": "self",
                               "size": 134
                             },
@@ -2820,7 +2820,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Kids' & Baby/Girls'/Specialty",
+                      "label": "SELF: Specialty",
                       "name": "self",
                       "size": 6
                     },
@@ -2842,7 +2842,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Kids' & Baby/Girls'/Accessories",
+                      "label": "SELF: Accessories",
                       "name": "self",
                       "size": 5004
                     },
@@ -2884,14 +2884,14 @@
             {
               "children": [
                 {
-                  "label": "Products/Kids' & Baby/Infant & Toddler",
+                  "label": "SELF: Infant & Toddler",
                   "name": "self",
                   "size": 5279
                 },
                 {
                   "children": [
                     {
-                      "label": "Products/Kids' & Baby/Infant & Toddler/Shoes",
+                      "label": "SELF: Shoes",
                       "name": "self",
                       "size": 4787
                     },
@@ -2928,7 +2928,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Kids' & Baby/Infant & Toddler/Clothing",
+                      "label": "SELF: Clothing",
                       "name": "self",
                       "size": 61056
                     },
@@ -2965,7 +2965,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Kids' & Baby/Infant & Toddler/Baby Products",
+                      "label": "SELF: Baby Products",
                       "name": "self",
                       "size": 13755
                     },
@@ -2987,14 +2987,14 @@
                     {
                       "children": [
                         {
-                          "label": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Car Seats & Accessories",
+                          "label": "SELF: Car Seats & Accessories",
                           "name": "self",
                           "size": 650
                         },
                         {
                           "children": [
                             {
-                              "label": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Car Seats & Accessories/Car Seats",
+                              "label": "SELF: Car Seats",
                               "name": "self",
                               "size": 252
                             },
@@ -3046,21 +3046,21 @@
         {
           "children": [
             {
-              "label": "Products/Health & Beauty",
+              "label": "SELF: Health & Beauty",
               "name": "self",
               "size": 139431
             },
             {
               "children": [
                 {
-                  "label": "Products/Health & Beauty/Makeup",
+                  "label": "SELF: Makeup",
                   "name": "self",
                   "size": 13215
                 },
                 {
                   "children": [
                     {
-                      "label": "Products/Health & Beauty/Makeup/Eyes",
+                      "label": "SELF: Eyes",
                       "name": "self",
                       "size": 4211
                     },
@@ -3087,7 +3087,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Health & Beauty/Makeup/Face",
+                      "label": "SELF: Face",
                       "name": "self",
                       "size": 1858
                     },
@@ -3124,7 +3124,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Health & Beauty/Makeup/Lips",
+                      "label": "SELF: Lips",
                       "name": "self",
                       "size": 4786
                     },
@@ -3186,7 +3186,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Health & Beauty/Skin Care",
+                  "label": "SELF: Skin Care",
                   "name": "self",
                   "size": 5074
                 },
@@ -3198,7 +3198,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Health & Beauty/Skin Care/Body",
+                      "label": "SELF: Body",
                       "name": "self",
                       "size": 1037
                     },
@@ -3240,7 +3240,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Health & Beauty/Oral Care",
+                  "label": "SELF: Oral Care",
                   "name": "self",
                   "size": 544
                 },
@@ -3257,7 +3257,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Health & Beauty/Fragrance",
+                  "label": "SELF: Fragrance",
                   "name": "self",
                   "size": 3911
                 },
@@ -3269,7 +3269,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Health & Beauty/Fragrance/Men's",
+                      "label": "SELF: Men's",
                       "name": "self",
                       "size": 735
                     },
@@ -3286,7 +3286,7 @@
                 {
                   "children": [
                     {
-                      "label": "Products/Health & Beauty/Fragrance/Women's",
+                      "label": "SELF: Women's",
                       "name": "self",
                       "size": 94
                     },
@@ -3313,7 +3313,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Health & Beauty/Hair Care",
+                  "label": "SELF: Hair Care",
                   "name": "self",
                   "size": 8283
                 },
@@ -3345,7 +3345,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Health & Beauty/Bath & Body",
+                  "label": "SELF: Bath & Body",
                   "name": "self",
                   "size": 18854
                 },
@@ -3382,7 +3382,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Health & Beauty/Diet & Wellness",
+                  "label": "SELF: Diet & Wellness",
                   "name": "self",
                   "size": 847
                 },
@@ -3419,7 +3419,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Health & Beauty/Medicines & Treatments",
+                  "label": "SELF: Medicines & Treatments",
                   "name": "self",
                   "size": 417
                 },
@@ -3446,14 +3446,14 @@
         {
           "children": [
             {
-              "label": "Products/Sports & Outdoors",
+              "label": "SELF: Sports & Outdoors",
               "name": "self",
               "size": 205070
             },
             {
               "children": [
                 {
-                  "label": "Products/Sports & Outdoors/Golf",
+                  "label": "SELF: Golf",
                   "name": "self",
                   "size": 5448
                 },
@@ -3475,7 +3475,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Sports & Outdoors/Tennis",
+                  "label": "SELF: Tennis",
                   "name": "self",
                   "size": 704
                 },
@@ -3492,7 +3492,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Sports & Outdoors/Soccer",
+                  "label": "SELF: Soccer",
                   "name": "self",
                   "size": 3243
                 },
@@ -3524,7 +3524,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Sports & Outdoors/Football",
+                  "label": "SELF: Football",
                   "name": "self",
                   "size": 4657
                 },
@@ -3551,7 +3551,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Sports & Outdoors/Lacrosse",
+                  "label": "SELF: Lacrosse",
                   "name": "self",
                   "size": 306
                 },
@@ -3578,7 +3578,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Sports & Outdoors/Basketball",
+                  "label": "SELF: Basketball",
                   "name": "self",
                   "size": 2052
                 },
@@ -3595,7 +3595,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Sports & Outdoors/Volleyball",
+                  "label": "SELF: Volleyball",
                   "name": "self",
                   "size": 191
                 },
@@ -3612,7 +3612,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Sports & Outdoors/Snow Sports",
+                  "label": "SELF: Snow Sports",
                   "name": "self",
                   "size": 627
                 },
@@ -3644,7 +3644,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Sports & Outdoors/Camping & Hiking",
+                  "label": "SELF: Camping & Hiking",
                   "name": "self",
                   "size": 12170
                 },
@@ -3681,7 +3681,7 @@
             {
               "children": [
                 {
-                  "label": "Products/Sports & Outdoors/Baseball & Softball",
+                  "label": "SELF: Baseball & Softball",
                   "name": "self",
                   "size": 6837
                 },
