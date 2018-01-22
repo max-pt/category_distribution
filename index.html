@@ -67,7 +67,7 @@ svg.append("g")
   .append("line")
     .attr("y1", "100%");
 
-d3.json("https://bl.ocks.org/mbostock/raw/1283663/readme.json", function(error, root) {
+d3.json("categories.json", function(error, root) {
   if (error) throw error;
 
   partition.nodes(root);
