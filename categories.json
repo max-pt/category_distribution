@@ -3,2484 +3,3044 @@
     {
       "children": [
         {
+          "name": "self",
+          "size": 980566
+        },
+        {
           "children": [
+            {
+              "name": "self",
+              "size": 158553
+            },
             {
               "children": [
                 {
-                  "name": "Products/Home/Pets/Toys", 
+                  "name": "self",
+                  "size": 8138
+                },
+                {
+                  "name": "Products/Home/Pets/Toys",
                   "size": 630
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Home/Pets/Food/Cats", 
+                      "name": "self",
+                      "size": 319
+                    },
+                    {
+                      "name": "Products/Home/Pets/Food/Cats",
                       "size": 489
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Pets/Food/Dogs", 
+                      "name": "Products/Home/Pets/Food/Dogs",
                       "size": 1213
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Pets/Food/Birds", 
+                      "name": "Products/Home/Pets/Food/Birds",
                       "size": 25
                     }
-                  ], 
-                  "name": "Products/Home/Pets/Food", 
+                  ],
+                  "name": "Products/Home/Pets/Food",
                   "size": 319
-                }, 
+                },
                 {
-                  "name": "Products/Home/Pets/Health", 
+                  "name": "Products/Home/Pets/Health",
                   "size": 48
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Home/Pets/Treats/Cats", 
+                      "name": "self",
+                      "size": 266
+                    },
+                    {
+                      "name": "Products/Home/Pets/Treats/Cats",
                       "size": 31
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Pets/Treats/Dogs", 
+                      "name": "Products/Home/Pets/Treats/Dogs",
                       "size": 72
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Pets/Treats/Birds", 
+                      "name": "Products/Home/Pets/Treats/Birds",
                       "size": 25
                     }
-                  ], 
-                  "name": "Products/Home/Pets/Treats", 
+                  ],
+                  "name": "Products/Home/Pets/Treats",
                   "size": 266
-                }, 
+                },
                 {
-                  "name": "Products/Home/Pets/Costumes", 
+                  "name": "Products/Home/Pets/Costumes",
                   "size": 555
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Home/Pets/Grooming/Brushes & Combs", 
-                      "size": 54
-                    }, 
+                      "name": "self",
+                      "size": 84
+                    },
                     {
-                      "name": "Products/Home/Pets/Grooming/Shampoos & Conditioners", 
+                      "name": "Products/Home/Pets/Grooming/Brushes & Combs",
+                      "size": 54
+                    },
+                    {
+                      "name": "Products/Home/Pets/Grooming/Shampoos & Conditioners",
                       "size": 17
                     }
-                  ], 
-                  "name": "Products/Home/Pets/Grooming", 
+                  ],
+                  "name": "Products/Home/Pets/Grooming",
                   "size": 84
-                }, 
+                },
                 {
-                  "name": "Products/Home/Pets/Training", 
+                  "name": "Products/Home/Pets/Training",
                   "size": 217
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Home/Pets/Collars & Leashes/ID Tags", 
+                      "name": "self",
+                      "size": 879
+                    },
+                    {
+                      "name": "Products/Home/Pets/Collars & Leashes/ID Tags",
                       "size": 7
                     }
-                  ], 
-                  "name": "Products/Home/Pets/Collars & Leashes", 
+                  ],
+                  "name": "Products/Home/Pets/Collars & Leashes",
                   "size": 879
-                }, 
+                },
                 {
-                  "name": "Products/Home/Pets/Feeding & Watering", 
+                  "name": "Products/Home/Pets/Feeding & Watering",
                   "size": 10
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Home/Pets/Houses, Habitats & Furniture/Beds", 
+                      "name": "self",
+                      "size": 219
+                    },
+                    {
+                      "name": "Products/Home/Pets/Houses, Habitats & Furniture/Beds",
                       "size": 41
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Pets/Houses, Habitats & Furniture/Cages", 
+                      "name": "Products/Home/Pets/Houses, Habitats & Furniture/Cages",
                       "size": 1
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Pets/Houses, Habitats & Furniture/Crates", 
+                      "name": "Products/Home/Pets/Houses, Habitats & Furniture/Crates",
                       "size": 4
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Pets/Houses, Habitats & Furniture/Habitats", 
+                      "name": "Products/Home/Pets/Houses, Habitats & Furniture/Habitats",
                       "size": 1
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Pets/Houses, Habitats & Furniture/Litter Boxes", 
+                      "name": "Products/Home/Pets/Houses, Habitats & Furniture/Litter Boxes",
                       "size": 2
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Pets/Houses, Habitats & Furniture/Gates & Doors", 
+                      "name": "Products/Home/Pets/Houses, Habitats & Furniture/Gates & Doors",
                       "size": 1
                     }
-                  ], 
-                  "name": "Products/Home/Pets/Houses, Habitats & Furniture", 
+                  ],
+                  "name": "Products/Home/Pets/Houses, Habitats & Furniture",
                   "size": 219
                 }
-              ], 
-              "name": "Products/Home/Pets", 
+              ],
+              "name": "Products/Home/Pets",
               "size": 8138
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Home/Holiday/Hanukkah", 
+                  "name": "self",
+                  "size": 368
+                },
+                {
+                  "name": "Products/Home/Holiday/Hanukkah",
                   "size": 5
-                }, 
+                },
                 {
-                  "name": "Products/Home/Holiday/Halloween", 
+                  "name": "Products/Home/Holiday/Halloween",
                   "size": 719
-                }, 
+                },
                 {
-                  "name": "Products/Home/Holiday/Christmas", 
+                  "name": "Products/Home/Holiday/Christmas",
                   "size": 12576
-                }, 
+                },
                 {
-                  "name": "Products/Home/Holiday/New Year's", 
+                  "name": "Products/Home/Holiday/New Year's",
                   "size": 2
-                }, 
+                },
                 {
-                  "name": "Products/Home/Holiday/Thanksgiving", 
+                  "name": "Products/Home/Holiday/Thanksgiving",
                   "size": 32
                 }
-              ], 
-              "name": "Products/Home/Holiday", 
+              ],
+              "name": "Products/Home/Holiday",
               "size": 368
-            }, 
+            },
             {
-              "name": "Products/Home/Stationery", 
+              "name": "Products/Home/Stationery",
               "size": 208
-            }, 
+            },
             {
               "children": [
+                {
+                  "name": "self",
+                  "size": 677
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Home/Bedding & Bath/Bath/Towels", 
-                      "size": 15774
-                    }, 
+                      "name": "self",
+                      "size": 7711
+                    },
                     {
-                      "name": "Products/Home/Bedding & Bath/Bath/Bath Rugs", 
+                      "name": "Products/Home/Bedding & Bath/Bath/Towels",
+                      "size": 15774
+                    },
+                    {
+                      "name": "Products/Home/Bedding & Bath/Bath/Bath Rugs",
                       "size": 9120
-                    }, 
+                    },
                     {
                       "children": [
                         {
-                          "name": "Products/Home/Bedding & Bath/Bath/Bathroom Accessories/Shower Curtains, Hooks & Liners", 
+                          "name": "self",
+                          "size": 31691
+                        },
+                        {
+                          "name": "Products/Home/Bedding & Bath/Bath/Bathroom Accessories/Shower Curtains, Hooks & Liners",
                           "size": 6758
                         }
-                      ], 
-                      "name": "Products/Home/Bedding & Bath/Bath/Bathroom Accessories", 
+                      ],
+                      "name": "Products/Home/Bedding & Bath/Bath/Bathroom Accessories",
                       "size": 31691
                     }
-                  ], 
-                  "name": "Products/Home/Bedding & Bath/Bath", 
+                  ],
+                  "name": "Products/Home/Bedding & Bath/Bath",
                   "size": 7711
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Home/Bedding & Bath/Bedding/Quilts", 
+                      "name": "self",
+                      "size": 14894
+                    },
+                    {
+                      "name": "Products/Home/Bedding & Bath/Bedding/Quilts",
                       "size": 14920
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Bedding & Bath/Bedding/Bed Pillows", 
+                      "name": "Products/Home/Bedding & Bath/Bedding/Bed Pillows",
                       "size": 13289
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Bedding & Bath/Bedding/Kids' Bedding", 
+                      "name": "Products/Home/Bedding & Bath/Bedding/Kids' Bedding",
                       "size": 4902
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Bedding & Bath/Bedding/Mattress Pads", 
+                      "name": "Products/Home/Bedding & Bath/Bedding/Mattress Pads",
                       "size": 1981
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Bedding & Bath/Bedding/Blankets & Throws", 
+                      "name": "Products/Home/Bedding & Bath/Bedding/Blankets & Throws",
                       "size": 8974
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Bedding & Bath/Bedding/Mattresses & Frames", 
+                      "name": "Products/Home/Bedding & Bath/Bedding/Mattresses & Frames",
                       "size": 11992
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Bedding & Bath/Bedding/Sheets & Pillowcases", 
+                      "name": "Products/Home/Bedding & Bath/Bedding/Sheets & Pillowcases",
                       "size": 18502
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Bedding & Bath/Bedding/Comforters & Bed Sets", 
+                      "name": "Products/Home/Bedding & Bath/Bedding/Comforters & Bed Sets",
                       "size": 7892
                     }
-                  ], 
-                  "name": "Products/Home/Bedding & Bath/Bedding", 
+                  ],
+                  "name": "Products/Home/Bedding & Bath/Bedding",
                   "size": 14894
                 }
-              ], 
-              "name": "Products/Home/Bedding & Bath", 
+              ],
+              "name": "Products/Home/Bedding & Bath",
               "size": 677
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Home/Home Appliances/Air Conditioners & Fans", 
+                  "name": "self",
+                  "size": 10006
+                },
+                {
+                  "name": "Products/Home/Home Appliances/Air Conditioners & Fans",
                   "size": 1248
-                }, 
+                },
                 {
                   "children": [
                     {
+                      "name": "self",
+                      "size": 219
+                    },
+                    {
                       "children": [
                         {
-                          "name": "Products/Home/Home Appliances/Irons, Steamers & Accessories/Irons/Travel Irons", 
+                          "name": "self",
+                          "size": 259
+                        },
+                        {
+                          "name": "Products/Home/Home Appliances/Irons, Steamers & Accessories/Irons/Travel Irons",
                           "size": 4
                         }
-                      ], 
-                      "name": "Products/Home/Home Appliances/Irons, Steamers & Accessories/Irons", 
+                      ],
+                      "name": "Products/Home/Home Appliances/Irons, Steamers & Accessories/Irons",
                       "size": 259
                     }
-                  ], 
-                  "name": "Products/Home/Home Appliances/Irons, Steamers & Accessories", 
+                  ],
+                  "name": "Products/Home/Home Appliances/Irons, Steamers & Accessories",
                   "size": 219
                 }
-              ], 
-              "name": "Products/Home/Home Appliances", 
+              ],
+              "name": "Products/Home/Home Appliances",
               "size": 10006
-            }, 
+            },
             {
-              "name": "Products/Home/Garden & Outdoor", 
+              "name": "Products/Home/Garden & Outdoor",
               "size": 6138
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Home/Kitchen & Dining/Bakeware", 
+                  "name": "self",
+                  "size": 47634
+                },
+                {
+                  "name": "Products/Home/Kitchen & Dining/Bakeware",
                   "size": 4714
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Home/Kitchen & Dining/Cookware/Grill Pans", 
-                      "size": 1419
-                    }, 
+                      "name": "self",
+                      "size": 6735
+                    },
                     {
-                      "name": "Products/Home/Kitchen & Dining/Cookware/Dutch Ovens", 
+                      "name": "Products/Home/Kitchen & Dining/Cookware/Grill Pans",
+                      "size": 1419
+                    },
+                    {
+                      "name": "Products/Home/Kitchen & Dining/Cookware/Dutch Ovens",
                       "size": 557
-                    }, 
+                    },
                     {
                       "children": [
                         {
-                          "name": "Products/Home/Kitchen & Dining/Cookware/Pots & Pans/Woks", 
-                          "size": 24
-                        }, 
+                          "name": "self",
+                          "size": 969
+                        },
                         {
-                          "name": "Products/Home/Kitchen & Dining/Cookware/Pots & Pans/Cookware Sets", 
+                          "name": "Products/Home/Kitchen & Dining/Cookware/Pots & Pans/Woks",
+                          "size": 24
+                        },
+                        {
+                          "name": "Products/Home/Kitchen & Dining/Cookware/Pots & Pans/Cookware Sets",
                           "size": 396
                         }
-                      ], 
-                      "name": "Products/Home/Kitchen & Dining/Cookware/Pots & Pans", 
+                      ],
+                      "name": "Products/Home/Kitchen & Dining/Cookware/Pots & Pans",
                       "size": 969
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Kitchen & Dining/Cookware/Roasting Pans", 
+                      "name": "Products/Home/Kitchen & Dining/Cookware/Roasting Pans",
                       "size": 80
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Kitchen & Dining/Cookware/Pressure Cookers", 
+                      "name": "Products/Home/Kitchen & Dining/Cookware/Pressure Cookers",
                       "size": 271
                     }
-                  ], 
-                  "name": "Products/Home/Kitchen & Dining/Cookware", 
+                  ],
+                  "name": "Products/Home/Kitchen & Dining/Cookware",
                   "size": 6735
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Home/Kitchen & Dining/Tableware/Flatware", 
+                      "name": "self",
+                      "size": 8650
+                    },
+                    {
+                      "name": "Products/Home/Kitchen & Dining/Tableware/Flatware",
                       "size": 1677
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Kitchen & Dining/Tableware/Serveware", 
+                      "name": "Products/Home/Kitchen & Dining/Tableware/Serveware",
                       "size": 9462
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Kitchen & Dining/Tableware/Dinnerware Sets", 
+                      "name": "Products/Home/Kitchen & Dining/Tableware/Dinnerware Sets",
                       "size": 1646
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Kitchen & Dining/Tableware/Glassware & Drinkware", 
+                      "name": "Products/Home/Kitchen & Dining/Tableware/Glassware & Drinkware",
                       "size": 15756
                     }
-                  ], 
-                  "name": "Products/Home/Kitchen & Dining/Tableware", 
+                  ],
+                  "name": "Products/Home/Kitchen & Dining/Tableware",
                   "size": 8650
-                }, 
+                },
                 {
-                  "name": "Products/Home/Kitchen & Dining/Wine Accessories", 
+                  "name": "Products/Home/Kitchen & Dining/Wine Accessories",
                   "size": 2449
-                }, 
+                },
                 {
-                  "name": "Products/Home/Kitchen & Dining/Small Appliances", 
+                  "name": "Products/Home/Kitchen & Dining/Small Appliances",
                   "size": 7460
-                }, 
+                },
                 {
-                  "name": "Products/Home/Kitchen & Dining/Coffee, Tea & Espresso", 
+                  "name": "Products/Home/Kitchen & Dining/Coffee, Tea & Espresso",
                   "size": 3909
-                }, 
+                },
                 {
-                  "name": "Products/Home/Kitchen & Dining/Kitchen & Table Linens", 
+                  "name": "Products/Home/Kitchen & Dining/Kitchen & Table Linens",
                   "size": 4236
-                }, 
+                },
                 {
-                  "name": "Products/Home/Kitchen & Dining/Kitchen Utensils & Gadgets", 
+                  "name": "Products/Home/Kitchen & Dining/Kitchen Utensils & Gadgets",
                   "size": 19600
-                }, 
+                },
                 {
                   "children": [
                     {
+                      "name": "self",
+                      "size": 2464
+                    },
+                    {
                       "children": [
                         {
-                          "name": "Products/Home/Kitchen & Dining/Kitchen Knives & Cutlery Accessories/Cutlery Sets/Boxed Knife Sets", 
+                          "name": "self",
+                          "size": 1047
+                        },
+                        {
+                          "name": "Products/Home/Kitchen & Dining/Kitchen Knives & Cutlery Accessories/Cutlery Sets/Boxed Knife Sets",
                           "size": 40
                         }
-                      ], 
-                      "name": "Products/Home/Kitchen & Dining/Kitchen Knives & Cutlery Accessories/Cutlery Sets", 
+                      ],
+                      "name": "Products/Home/Kitchen & Dining/Kitchen Knives & Cutlery Accessories/Cutlery Sets",
                       "size": 1047
                     }
-                  ], 
-                  "name": "Products/Home/Kitchen & Dining/Kitchen Knives & Cutlery Accessories", 
+                  ],
+                  "name": "Products/Home/Kitchen & Dining/Kitchen Knives & Cutlery Accessories",
                   "size": 2464
                 }
-              ], 
-              "name": "Products/Home/Kitchen & Dining", 
+              ],
+              "name": "Products/Home/Kitchen & Dining",
               "size": 47634
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Home/Furniture & D\u00e9cor/Lighting", 
-                  "size": 33419
-                }, 
+                  "name": "self",
+                  "size": 11047
+                },
                 {
-                  "name": "Products/Home/Furniture & D\u00e9cor/Furniture", 
+                  "name": "Products/Home/Furniture & D\u00e9cor/Lighting",
+                  "size": 33419
+                },
+                {
+                  "name": "Products/Home/Furniture & D\u00e9cor/Furniture",
                   "size": 120560
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Slipcovers", 
-                      "size": 1222
-                    }, 
+                      "name": "self",
+                      "size": 161746
+                    },
                     {
-                      "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Area Rugs & Pads", 
+                      "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Slipcovers",
+                      "size": 1222
+                    },
+                    {
+                      "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Area Rugs & Pads",
                       "size": 172765
-                    }, 
+                    },
                     {
                       "children": [
                         {
-                          "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Window Treatments/Tiers", 
+                          "name": "self",
+                          "size": 2825
+                        },
+                        {
+                          "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Window Treatments/Tiers",
                           "size": 773
-                        }, 
+                        },
                         {
-                          "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Window Treatments/Blinds & Shades", 
+                          "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Window Treatments/Blinds & Shades",
                           "size": 3772
-                        }, 
+                        },
                         {
-                          "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Window Treatments/Draperies & Curtains", 
+                          "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Window Treatments/Draperies & Curtains",
                           "size": 35996
                         }
-                      ], 
-                      "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Window Treatments", 
+                      ],
+                      "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Window Treatments",
                       "size": 2825
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Decorative Pillows", 
+                      "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Decorative Pillows",
                       "size": 36593
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Home D\u00e9cor Accents", 
+                      "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Home D\u00e9cor Accents",
                       "size": 38040
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Fireplaces & Accessories", 
+                      "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor/Fireplaces & Accessories",
                       "size": 710
                     }
-                  ], 
-                  "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor", 
+                  ],
+                  "name": "Products/Home/Furniture & D\u00e9cor/Home D\u00e9cor",
                   "size": 161746
-                }, 
+                },
                 {
-                  "name": "Products/Home/Furniture & D\u00e9cor/Candles & Home Scents", 
+                  "name": "Products/Home/Furniture & D\u00e9cor/Candles & Home Scents",
                   "size": 4531
                 }
-              ], 
-              "name": "Products/Home/Furniture & D\u00e9cor", 
+              ],
+              "name": "Products/Home/Furniture & D\u00e9cor",
               "size": 11047
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Home/Cleaning & Storage/Vacuums", 
+                  "name": "self",
+                  "size": 13137
+                },
+                {
+                  "name": "Products/Home/Cleaning & Storage/Vacuums",
                   "size": 34
                 }
-              ], 
-              "name": "Products/Home/Cleaning & Storage", 
+              ],
+              "name": "Products/Home/Cleaning & Storage",
               "size": 13137
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Home/Event & Party Supplies/Wedding", 
+                  "name": "self",
+                  "size": 669
+                },
+                {
+                  "name": "Products/Home/Event & Party Supplies/Wedding",
                   "size": 2207
                 }
-              ], 
-              "name": "Products/Home/Event & Party Supplies", 
+              ],
+              "name": "Products/Home/Event & Party Supplies",
               "size": 669
-            }, 
+            },
             {
               "children": [
                 {
+                  "name": "self",
+                  "size": 8453
+                },
+                {
                   "children": [
                     {
-                      "name": "Products/Home/Luggage, Bags & Travel/Luggage/Totes", 
+                      "name": "self",
+                      "size": 9354
+                    },
+                    {
+                      "name": "Products/Home/Luggage, Bags & Travel/Luggage/Totes",
                       "size": 2135
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Luggage, Bags & Travel/Luggage/Carry-Ons", 
+                      "name": "Products/Home/Luggage, Bags & Travel/Luggage/Carry-Ons",
                       "size": 1582
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Luggage, Bags & Travel/Luggage/Garment Bags", 
+                      "name": "Products/Home/Luggage, Bags & Travel/Luggage/Garment Bags",
                       "size": 255
                     }
-                  ], 
-                  "name": "Products/Home/Luggage, Bags & Travel/Luggage", 
+                  ],
+                  "name": "Products/Home/Luggage, Bags & Travel/Luggage",
                   "size": 9354
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Home/Luggage, Bags & Travel/Bags & Backpacks/Gym Bags", 
+                      "name": "self",
+                      "size": 24276
+                    },
+                    {
+                      "name": "Products/Home/Luggage, Bags & Travel/Bags & Backpacks/Gym Bags",
                       "size": 927
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Luggage, Bags & Travel/Bags & Backpacks/Backpacks", 
+                      "name": "Products/Home/Luggage, Bags & Travel/Bags & Backpacks/Backpacks",
                       "size": 6408
-                    }, 
+                    },
                     {
-                      "name": "Products/Home/Luggage, Bags & Travel/Bags & Backpacks/Messenger Bags", 
+                      "name": "Products/Home/Luggage, Bags & Travel/Bags & Backpacks/Messenger Bags",
                       "size": 820
                     }
-                  ], 
-                  "name": "Products/Home/Luggage, Bags & Travel/Bags & Backpacks", 
+                  ],
+                  "name": "Products/Home/Luggage, Bags & Travel/Bags & Backpacks",
                   "size": 24276
-                }, 
+                },
                 {
-                  "name": "Products/Home/Luggage, Bags & Travel/Laptop Bags & Cases", 
+                  "name": "Products/Home/Luggage, Bags & Travel/Laptop Bags & Cases",
                   "size": 1576
                 }
-              ], 
-              "name": "Products/Home/Luggage, Bags & Travel", 
+              ],
+              "name": "Products/Home/Luggage, Bags & Travel",
               "size": 8453
-            }, 
+            },
             {
-              "name": "Products/Home/Shoe Care & Accessories", 
+              "name": "Products/Home/Shoe Care & Accessories",
               "size": 410
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Home/Tools & Home Improvement/Heating & Cooling", 
+                  "name": "self",
+                  "size": 16123
+                },
+                {
+                  "name": "Products/Home/Tools & Home Improvement/Heating & Cooling",
                   "size": 208
                 }
-              ], 
-              "name": "Products/Home/Tools & Home Improvement", 
+              ],
+              "name": "Products/Home/Tools & Home Improvement",
               "size": 16123
             }
-          ], 
-          "name": "Products/Home", 
+          ],
+          "name": "Products/Home",
           "size": 158553
-        }, 
+        },
         {
           "children": [
             {
+              "name": "self",
+              "size": 25347
+            },
+            {
               "children": [
+                {
+                  "name": "self",
+                  "size": 36137
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Men's/Shoes/Dress/Oxfords", 
+                      "name": "self",
+                      "size": 2675
+                    },
+                    {
+                      "name": "Products/Men's/Shoes/Dress/Oxfords",
                       "size": 3372
                     }
-                  ], 
-                  "name": "Products/Men's/Shoes/Dress", 
+                  ],
+                  "name": "Products/Men's/Shoes/Dress",
                   "size": 2675
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Shoes/Boots", 
+                  "name": "Products/Men's/Shoes/Boots",
                   "size": 17534
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Shoes/Casual", 
+                  "name": "Products/Men's/Shoes/Casual",
                   "size": 4456
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Shoes/Loafers", 
+                  "name": "Products/Men's/Shoes/Loafers",
                   "size": 3528
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Men's/Shoes/Sandals/Slides", 
+                      "name": "self",
+                      "size": 2400
+                    },
+                    {
+                      "name": "Products/Men's/Shoes/Sandals/Slides",
                       "size": 900
                     }
-                  ], 
-                  "name": "Products/Men's/Shoes/Sandals", 
+                  ],
+                  "name": "Products/Men's/Shoes/Sandals",
                   "size": 2400
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Shoes/Slippers", 
+                  "name": "Products/Men's/Shoes/Slippers",
                   "size": 2053
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Shoes/Sneakers", 
+                  "name": "Products/Men's/Shoes/Sneakers",
                   "size": 23832
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Shoes/Boat Shoes", 
+                  "name": "Products/Men's/Shoes/Boat Shoes",
                   "size": 659
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Shoes/Water Shoes", 
+                  "name": "Products/Men's/Shoes/Water Shoes",
                   "size": 113
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Shoes/Mules & Clogs", 
+                  "name": "Products/Men's/Shoes/Mules & Clogs",
                   "size": 240
                 }
-              ], 
-              "name": "Products/Men's/Shoes", 
+              ],
+              "name": "Products/Men's/Shoes",
               "size": 36137
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Men's/Jewelry/Watches", 
+                  "name": "self",
+                  "size": 10950
+                },
+                {
+                  "name": "Products/Men's/Jewelry/Watches",
                   "size": 17189
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Jewelry/Tie Clips", 
+                  "name": "Products/Men's/Jewelry/Tie Clips",
                   "size": 170
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Jewelry/Cuff Links", 
+                  "name": "Products/Men's/Jewelry/Cuff Links",
                   "size": 5167
                 }
-              ], 
-              "name": "Products/Men's/Jewelry", 
+              ],
+              "name": "Products/Men's/Jewelry",
               "size": 10950
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Men's/Clothing/Swim", 
+                  "name": "self",
+                  "size": 57573
+                },
+                {
+                  "name": "Products/Men's/Clothing/Swim",
                   "size": 5589
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Clothing/Pants", 
+                  "name": "Products/Men's/Clothing/Pants",
                   "size": 26719
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Clothing/Jeans", 
+                  "name": "Products/Men's/Clothing/Jeans",
                   "size": 9651
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Clothing/Shorts", 
+                  "name": "Products/Men's/Clothing/Shorts",
                   "size": 8955
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Clothing/Formal", 
+                  "name": "Products/Men's/Clothing/Formal",
                   "size": 57
-                }, 
+                },
                 {
                   "children": [
                     {
+                      "name": "self",
+                      "size": 5703
+                    },
+                    {
                       "children": [
                         {
-                          "name": "Products/Men's/Clothing/Active/Pants/Track Pants", 
+                          "name": "self",
+                          "size": 3624
+                        },
+                        {
+                          "name": "Products/Men's/Clothing/Active/Pants/Track Pants",
                           "size": 258
                         }
-                      ], 
-                      "name": "Products/Men's/Clothing/Active/Pants", 
+                      ],
+                      "name": "Products/Men's/Clothing/Active/Pants",
                       "size": 3624
-                    }, 
+                    },
                     {
-                      "name": "Products/Men's/Clothing/Active/Shorts", 
+                      "name": "Products/Men's/Clothing/Active/Shorts",
                       "size": 2703
-                    }, 
+                    },
                     {
-                      "name": "Products/Men's/Clothing/Active/Shirts & Tees", 
+                      "name": "Products/Men's/Clothing/Active/Shirts & Tees",
                       "size": 8544
                     }
-                  ], 
-                  "name": "Products/Men's/Clothing/Active", 
+                  ],
+                  "name": "Products/Men's/Clothing/Active",
                   "size": 5703
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Men's/Clothing/Sweaters/Vests", 
-                      "size": 540
-                    }, 
+                      "name": "self",
+                      "size": 4909
+                    },
                     {
-                      "name": "Products/Men's/Clothing/Sweaters/Cardigans", 
+                      "name": "Products/Men's/Clothing/Sweaters/Vests",
+                      "size": 540
+                    },
+                    {
+                      "name": "Products/Men's/Clothing/Sweaters/Cardigans",
                       "size": 878
                     }
-                  ], 
-                  "name": "Products/Men's/Clothing/Sweaters", 
+                  ],
+                  "name": "Products/Men's/Clothing/Sweaters",
                   "size": 4909
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Men's/Clothing/Shirts & Polos/Tees", 
-                      "size": 38123
-                    }, 
+                      "name": "self",
+                      "size": 76562
+                    },
                     {
-                      "name": "Products/Men's/Clothing/Shirts & Polos/Dress Shirts", 
+                      "name": "Products/Men's/Clothing/Shirts & Polos/Tees",
+                      "size": 38123
+                    },
+                    {
+                      "name": "Products/Men's/Clothing/Shirts & Polos/Dress Shirts",
                       "size": 7651
                     }
-                  ], 
-                  "name": "Products/Men's/Clothing/Shirts & Polos", 
+                  ],
+                  "name": "Products/Men's/Clothing/Shirts & Polos",
                   "size": 76562
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Men's/Clothing/Coats & Jackets/Vests", 
+                      "name": "self",
+                      "size": 19499
+                    },
+                    {
+                      "name": "Products/Men's/Clothing/Coats & Jackets/Vests",
                       "size": 2899
-                    }, 
+                    },
                     {
-                      "name": "Products/Men's/Clothing/Coats & Jackets/Leather", 
+                      "name": "Products/Men's/Clothing/Coats & Jackets/Leather",
                       "size": 970
-                    }, 
+                    },
                     {
-                      "name": "Products/Men's/Clothing/Coats & Jackets/Parkas & Anoraks", 
+                      "name": "Products/Men's/Clothing/Coats & Jackets/Parkas & Anoraks",
                       "size": 1016
-                    }, 
+                    },
                     {
-                      "name": "Products/Men's/Clothing/Coats & Jackets/Trenches & Raincoats", 
+                      "name": "Products/Men's/Clothing/Coats & Jackets/Trenches & Raincoats",
                       "size": 391
                     }
-                  ], 
-                  "name": "Products/Men's/Clothing/Coats & Jackets", 
+                  ],
+                  "name": "Products/Men's/Clothing/Coats & Jackets",
                   "size": 19499
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Clothing/Sweats & Hoodies", 
+                  "name": "Products/Men's/Clothing/Sweats & Hoodies",
                   "size": 25308
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Men's/Clothing/Sleepwear & Robes/Pajamas", 
+                      "name": "self",
+                      "size": 2300
+                    },
+                    {
+                      "name": "Products/Men's/Clothing/Sleepwear & Robes/Pajamas",
                       "size": 2877
                     }
-                  ], 
-                  "name": "Products/Men's/Clothing/Sleepwear & Robes", 
+                  ],
+                  "name": "Products/Men's/Clothing/Sleepwear & Robes",
                   "size": 2300
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Clothing/Underwear & Socks", 
+                  "name": "Products/Men's/Clothing/Underwear & Socks",
                   "size": 17750
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Men's/Clothing/Suits & Sport Coats/Suits", 
-                      "size": 5668
-                    }, 
+                      "name": "self",
+                      "size": 599
+                    },
                     {
-                      "name": "Products/Men's/Clothing/Suits & Sport Coats/Sport Coats & Blazers", 
+                      "name": "Products/Men's/Clothing/Suits & Sport Coats/Suits",
+                      "size": 5668
+                    },
+                    {
+                      "name": "Products/Men's/Clothing/Suits & Sport Coats/Sport Coats & Blazers",
                       "size": 2644
                     }
-                  ], 
-                  "name": "Products/Men's/Clothing/Suits & Sport Coats", 
+                  ],
+                  "name": "Products/Men's/Clothing/Suits & Sport Coats",
                   "size": 599
                 }
-              ], 
-              "name": "Products/Men's/Clothing", 
+              ],
+              "name": "Products/Men's/Clothing",
               "size": 57573
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Men's/Specialty/Costumes", 
+                  "name": "self",
+                  "size": 12
+                },
+                {
+                  "name": "Products/Men's/Specialty/Costumes",
                   "size": 2801
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Specialty/Fan Gear", 
+                  "name": "Products/Men's/Specialty/Fan Gear",
                   "size": 39217
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Specialty/Workwear/Scrubs", 
+                  "name": "Products/Men's/Specialty/Workwear/Scrubs",
                   "size": 123
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Specialty/Workwear/Kitchen", 
+                  "name": "Products/Men's/Specialty/Workwear/Kitchen",
                   "size": 56
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Specialty/Workwear/Coveralls", 
+                  "name": "Products/Men's/Specialty/Workwear/Coveralls",
                   "size": 208
                 }
-              ], 
-              "name": "Products/Men's/Specialty", 
+              ],
+              "name": "Products/Men's/Specialty",
               "size": 12
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Men's/Accessories/Hats", 
+                  "name": "self",
+                  "size": 14629
+                },
+                {
+                  "name": "Products/Men's/Accessories/Hats",
                   "size": 14360
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Accessories/Ties", 
+                  "name": "Products/Men's/Accessories/Ties",
                   "size": 10999
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Accessories/Belts", 
+                  "name": "Products/Men's/Accessories/Belts",
                   "size": 4853
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Accessories/Gloves", 
+                  "name": "Products/Men's/Accessories/Gloves",
                   "size": 1269
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Accessories/Eyewear", 
+                  "name": "Products/Men's/Accessories/Eyewear",
                   "size": 7263
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Accessories/Scarves", 
+                  "name": "Products/Men's/Accessories/Scarves",
                   "size": 978
-                }, 
+                },
                 {
-                  "name": "Products/Men's/Accessories/Wallets, Money & Key Organizers", 
+                  "name": "Products/Men's/Accessories/Wallets, Money & Key Organizers",
                   "size": 4793
                 }
-              ], 
-              "name": "Products/Men's/Accessories", 
+              ],
+              "name": "Products/Men's/Accessories",
               "size": 14629
             }
-          ], 
-          "name": "Products/Men's", 
+          ],
+          "name": "Products/Men's",
           "size": 25347
-        }, 
+        },
         {
           "children": [
             {
+              "name": "self",
+              "size": 36441
+            },
+            {
               "children": [
                 {
-                  "name": "Products/Women's/Bags/Wallets", 
+                  "name": "self",
+                  "size": 9199
+                },
+                {
+                  "name": "Products/Women's/Bags/Wallets",
                   "size": 7376
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Bags/Handbags/Totes", 
+                      "name": "self",
+                      "size": 21769
+                    },
+                    {
+                      "name": "Products/Women's/Bags/Handbags/Totes",
                       "size": 13152
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Bags/Handbags/Hobos", 
+                      "name": "Products/Women's/Bags/Handbags/Hobos",
                       "size": 2231
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Bags/Handbags/Crossbodies", 
+                      "name": "Products/Women's/Bags/Handbags/Crossbodies",
                       "size": 10056
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Bags/Handbags/Clutches & Evening", 
+                      "name": "Products/Women's/Bags/Handbags/Clutches & Evening",
                       "size": 4830
                     }
-                  ], 
-                  "name": "Products/Women's/Bags/Handbags", 
+                  ],
+                  "name": "Products/Women's/Bags/Handbags",
                   "size": 21769
                 }
-              ], 
-              "name": "Products/Women's/Bags", 
+              ],
+              "name": "Products/Women's/Bags",
               "size": 9199
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Women's/Shoes/Heels", 
+                  "name": "self",
+                  "size": 47946
+                },
+                {
+                  "name": "Products/Women's/Shoes/Heels",
                   "size": 30018
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Shoes/Boots/Riding", 
+                      "name": "self",
+                      "size": 31184
+                    },
+                    {
+                      "name": "Products/Women's/Shoes/Boots/Riding",
                       "size": 1406
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Shoes/Boots/Booties", 
+                      "name": "Products/Women's/Shoes/Boots/Booties",
                       "size": 13722
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Shoes/Boots/Cold Weather Boots", 
+                      "name": "Products/Women's/Shoes/Boots/Cold Weather Boots",
                       "size": 3593
                     }
-                  ], 
-                  "name": "Products/Women's/Shoes/Boots", 
+                  ],
+                  "name": "Products/Women's/Shoes/Boots",
                   "size": 31184
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Shoes/Flats", 
+                  "name": "Products/Women's/Shoes/Flats",
                   "size": 19328
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Shoes/Oxfords", 
+                  "name": "Products/Women's/Shoes/Oxfords",
                   "size": 2340
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Shoes/Sandals/Slides", 
+                      "name": "self",
+                      "size": 37693
+                    },
+                    {
+                      "name": "Products/Women's/Shoes/Sandals/Slides",
                       "size": 13829
                     }
-                  ], 
-                  "name": "Products/Women's/Shoes/Sandals", 
+                  ],
+                  "name": "Products/Women's/Shoes/Sandals",
                   "size": 37693
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Shoes/Slippers", 
+                  "name": "Products/Women's/Shoes/Slippers",
                   "size": 6601
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Shoes/Sneakers/Designer Sneakers", 
+                      "name": "self",
+                      "size": 31703
+                    },
+                    {
+                      "name": "Products/Women's/Shoes/Sneakers/Designer Sneakers",
                       "size": 487
                     }
-                  ], 
-                  "name": "Products/Women's/Shoes/Sneakers", 
+                  ],
+                  "name": "Products/Women's/Shoes/Sneakers",
                   "size": 31703
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Shoes/Boat Shoes", 
+                  "name": "Products/Women's/Shoes/Boat Shoes",
                   "size": 371
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Shoes/Espadrilles", 
+                  "name": "Products/Women's/Shoes/Espadrilles",
                   "size": 407
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Shoes/Water Shoes", 
+                  "name": "Products/Women's/Shoes/Water Shoes",
                   "size": 90
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Shoes/Mules & Clogs", 
+                  "name": "Products/Women's/Shoes/Mules & Clogs",
                   "size": 6717
                 }
-              ], 
-              "name": "Products/Women's/Shoes", 
+              ],
+              "name": "Products/Women's/Shoes",
               "size": 47946
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Women's/Jewelry/Rings", 
+                  "name": "self",
+                  "size": 4107
+                },
+                {
+                  "name": "Products/Women's/Jewelry/Rings",
                   "size": 37664
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Jewelry/Charms", 
+                  "name": "Products/Women's/Jewelry/Charms",
                   "size": 2316
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Jewelry/Watches", 
+                  "name": "Products/Women's/Jewelry/Watches",
                   "size": 22665
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Jewelry/Earrings", 
+                  "name": "Products/Women's/Jewelry/Earrings",
                   "size": 54489
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Jewelry/Necklaces", 
+                  "name": "Products/Women's/Jewelry/Necklaces",
                   "size": 51616
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Jewelry/Bracelets", 
+                  "name": "Products/Women's/Jewelry/Bracelets",
                   "size": 20476
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Jewelry/Body Jewelry", 
+                  "name": "Products/Women's/Jewelry/Body Jewelry",
                   "size": 2105
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Jewelry/Jewelry Boxes", 
+                  "name": "Products/Women's/Jewelry/Jewelry Boxes",
                   "size": 1323
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Jewelry/Brooches & Pins", 
+                  "name": "Products/Women's/Jewelry/Brooches & Pins",
                   "size": 1517
                 }
-              ], 
-              "name": "Products/Women's/Jewelry", 
+              ],
+              "name": "Products/Women's/Jewelry",
               "size": 4107
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Women's/Juniors'/Jewelry", 
+                  "name": "self",
+                  "size": 37
+                },
+                {
+                  "name": "Products/Women's/Juniors'/Jewelry",
                   "size": 249
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Juniors'/Clothing/Swim", 
+                      "name": "self",
+                      "size": 739
+                    },
+                    {
+                      "name": "Products/Women's/Juniors'/Clothing/Swim",
                       "size": 207
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Juniors'/Clothing/Jeans", 
+                      "name": "Products/Women's/Juniors'/Clothing/Jeans",
                       "size": 1081
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Juniors'/Clothing/Vests", 
+                      "name": "Products/Women's/Juniors'/Clothing/Vests",
                       "size": 219
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Juniors'/Clothing/Pants", 
+                      "name": "Products/Women's/Juniors'/Clothing/Pants",
                       "size": 783
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Juniors'/Clothing/Skirts", 
+                      "name": "Products/Women's/Juniors'/Clothing/Skirts",
                       "size": 201
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Juniors'/Clothing/Shorts", 
+                      "name": "Products/Women's/Juniors'/Clothing/Shorts",
                       "size": 231
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Juniors'/Clothing/Dresses", 
+                      "name": "Products/Women's/Juniors'/Clothing/Dresses",
                       "size": 1228
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Juniors'/Clothing/Sweaters", 
+                      "name": "Products/Women's/Juniors'/Clothing/Sweaters",
                       "size": 564
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Juniors'/Clothing/Coats & Jackets", 
+                      "name": "Products/Women's/Juniors'/Clothing/Coats & Jackets",
                       "size": 98
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Juniors'/Clothing/Shirts, Blouses & Polos", 
+                      "name": "Products/Women's/Juniors'/Clothing/Shirts, Blouses & Polos",
                       "size": 2047
                     }
-                  ], 
-                  "name": "Products/Women's/Juniors'/Clothing", 
+                  ],
+                  "name": "Products/Women's/Juniors'/Clothing",
                   "size": 739
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Juniors'/Accessories/Hats", 
-                      "size": 4571
-                    }, 
+                      "name": "self",
+                      "size": 57
+                    },
                     {
-                      "name": "Products/Women's/Juniors'/Accessories/Eyewear", 
+                      "name": "Products/Women's/Juniors'/Accessories/Hats",
+                      "size": 4571
+                    },
+                    {
+                      "name": "Products/Women's/Juniors'/Accessories/Eyewear",
                       "size": 2266
                     }
-                  ], 
-                  "name": "Products/Women's/Juniors'/Accessories", 
+                  ],
+                  "name": "Products/Women's/Juniors'/Accessories",
                   "size": 57
                 }
-              ], 
-              "name": "Products/Women's/Juniors'", 
+              ],
+              "name": "Products/Women's/Juniors'",
               "size": 37
-            }, 
+            },
             {
               "children": [
                 {
+                  "name": "self",
+                  "size": 83770
+                },
+                {
                   "children": [
                     {
-                      "name": "Products/Women's/Clothing/Swim/Cover-Ups", 
-                      "size": 2620
-                    }, 
+                      "name": "self",
+                      "size": 20904
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Swim/One-Pieces", 
+                      "name": "Products/Women's/Clothing/Swim/Cover-Ups",
+                      "size": 2620
+                    },
+                    {
+                      "name": "Products/Women's/Clothing/Swim/One-Pieces",
                       "size": 7439
-                    }, 
+                    },
                     {
                       "children": [
                         {
-                          "name": "Products/Women's/Clothing/Swim/Two-Pieces/Tops", 
-                          "size": 6156
-                        }, 
+                          "name": "self",
+                          "size": 6058
+                        },
                         {
-                          "name": "Products/Women's/Clothing/Swim/Two-Pieces/Bottoms", 
+                          "name": "Products/Women's/Clothing/Swim/Two-Pieces/Tops",
+                          "size": 6156
+                        },
+                        {
+                          "name": "Products/Women's/Clothing/Swim/Two-Pieces/Bottoms",
                           "size": 5427
                         }
-                      ], 
-                      "name": "Products/Women's/Clothing/Swim/Two-Pieces", 
+                      ],
+                      "name": "Products/Women's/Clothing/Swim/Two-Pieces",
                       "size": 6058
                     }
-                  ], 
-                  "name": "Products/Women's/Clothing/Swim", 
+                  ],
+                  "name": "Products/Women's/Clothing/Swim",
                   "size": 20904
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Clothing/Pants/Leggings", 
-                      "size": 6130
-                    }, 
+                      "name": "self",
+                      "size": 26294
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Pants/Cropped & Capris", 
+                      "name": "Products/Women's/Clothing/Pants/Leggings",
+                      "size": 6130
+                    },
+                    {
+                      "name": "Products/Women's/Clothing/Pants/Cropped & Capris",
                       "size": 2886
                     }
-                  ], 
-                  "name": "Products/Women's/Clothing/Pants", 
+                  ],
+                  "name": "Products/Women's/Clothing/Pants",
                   "size": 26294
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Clothing/Jeans", 
+                  "name": "Products/Women's/Clothing/Jeans",
                   "size": 22971
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Clothing/Bridal", 
+                  "name": "Products/Women's/Clothing/Bridal",
                   "size": 7998
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Clothing/Shorts", 
+                  "name": "Products/Women's/Clothing/Shorts",
                   "size": 9738
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Clothing/Active/Pants", 
+                      "name": "self",
+                      "size": 16383
+                    },
+                    {
+                      "name": "Products/Women's/Clothing/Active/Pants",
                       "size": 5853
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Active/Shorts", 
+                      "name": "Products/Women's/Clothing/Active/Shorts",
                       "size": 2492
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Active/Sports Bras", 
+                      "name": "Products/Women's/Clothing/Active/Sports Bras",
                       "size": 6052
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Active/Shirts & Tees", 
+                      "name": "Products/Women's/Clothing/Active/Shirts & Tees",
                       "size": 5215
                     }
-                  ], 
-                  "name": "Products/Women's/Clothing/Active", 
+                  ],
+                  "name": "Products/Women's/Clothing/Active",
                   "size": 16383
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Clothing/Skirts", 
+                  "name": "Products/Women's/Clothing/Skirts",
                   "size": 15590
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Clothing/Dresses/Gowns", 
-                      "size": 13348
-                    }, 
+                      "name": "self",
+                      "size": 128636
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Dresses/Sweater Dresses", 
+                      "name": "Products/Women's/Clothing/Dresses/Gowns",
+                      "size": 13348
+                    },
+                    {
+                      "name": "Products/Women's/Clothing/Dresses/Sweater Dresses",
                       "size": 2125
                     }
-                  ], 
-                  "name": "Products/Women's/Clothing/Dresses", 
+                  ],
+                  "name": "Products/Women's/Clothing/Dresses",
                   "size": 128636
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Clothing/Sweaters/Ponchos", 
+                      "name": "self",
+                      "size": 15856
+                    },
+                    {
+                      "name": "Products/Women's/Clothing/Sweaters/Ponchos",
                       "size": 356
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Sweaters/V-Necks", 
+                      "name": "Products/Women's/Clothing/Sweaters/V-Necks",
                       "size": 749
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Sweaters/Crewnecks", 
+                      "name": "Products/Women's/Clothing/Sweaters/Crewnecks",
                       "size": 188
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Sweaters/Cardigans", 
+                      "name": "Products/Women's/Clothing/Sweaters/Cardigans",
                       "size": 8521
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Sweaters/Pullovers", 
+                      "name": "Products/Women's/Clothing/Sweaters/Pullovers",
                       "size": 4338
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Sweaters/Turtlenecks", 
+                      "name": "Products/Women's/Clothing/Sweaters/Turtlenecks",
                       "size": 988
                     }
-                  ], 
-                  "name": "Products/Women's/Clothing/Sweaters", 
+                  ],
+                  "name": "Products/Women's/Clothing/Sweaters",
                   "size": 15856
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Clothing/Maternity/Tops", 
+                      "name": "self",
+                      "size": 4437
+                    },
+                    {
+                      "name": "Products/Women's/Clothing/Maternity/Tops",
                       "size": 2316
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Maternity/Pants", 
+                      "name": "Products/Women's/Clothing/Maternity/Pants",
                       "size": 663
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Maternity/Shorts", 
+                      "name": "Products/Women's/Clothing/Maternity/Shorts",
                       "size": 269
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Maternity/Intimates", 
+                      "name": "Products/Women's/Clothing/Maternity/Intimates",
                       "size": 294
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Maternity/Dresses & Skirts", 
+                      "name": "Products/Women's/Clothing/Maternity/Dresses & Skirts",
                       "size": 2706
                     }
-                  ], 
-                  "name": "Products/Women's/Clothing/Maternity", 
+                  ],
+                  "name": "Products/Women's/Clothing/Maternity",
                   "size": 4437
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Clothing/Intimates/Bras", 
+                      "name": "self",
+                      "size": 14286
+                    },
+                    {
+                      "name": "Products/Women's/Clothing/Intimates/Bras",
                       "size": 39214
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Intimates/Slips", 
+                      "name": "Products/Women's/Clothing/Intimates/Slips",
                       "size": 199
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Intimates/Panties", 
+                      "name": "Products/Women's/Clothing/Intimates/Panties",
                       "size": 8827
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Intimates/Lingerie", 
+                      "name": "Products/Women's/Clothing/Intimates/Lingerie",
                       "size": 2314
-                    }, 
+                    },
                     {
                       "children": [
                         {
-                          "name": "Products/Women's/Clothing/Intimates/Shapewear/Bodysuits", 
+                          "name": "self",
+                          "size": 2361
+                        },
+                        {
+                          "name": "Products/Women's/Clothing/Intimates/Shapewear/Bodysuits",
                           "size": 1913
                         }
-                      ], 
-                      "name": "Products/Women's/Clothing/Intimates/Shapewear", 
+                      ],
+                      "name": "Products/Women's/Clothing/Intimates/Shapewear",
                       "size": 2361
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Intimates/Accessories", 
+                      "name": "Products/Women's/Clothing/Intimates/Accessories",
                       "size": 443
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Intimates/Camisoles & Chemises", 
+                      "name": "Products/Women's/Clothing/Intimates/Camisoles & Chemises",
                       "size": 683
                     }
-                  ], 
-                  "name": "Products/Women's/Clothing/Intimates", 
+                  ],
+                  "name": "Products/Women's/Clothing/Intimates",
                   "size": 14286
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Clothing/Tops & Tees/Tees", 
+                      "name": "self",
+                      "size": 77922
+                    },
+                    {
+                      "name": "Products/Women's/Clothing/Tops & Tees/Tees",
                       "size": 21206
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Tops & Tees/Polos", 
+                      "name": "Products/Women's/Clothing/Tops & Tees/Polos",
                       "size": 1087
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Tops & Tees/Tunics", 
+                      "name": "Products/Women's/Clothing/Tops & Tees/Tunics",
                       "size": 3676
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Tops & Tees/Tanks & Camis", 
+                      "name": "Products/Women's/Clothing/Tops & Tees/Tanks & Camis",
                       "size": 15816
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Tops & Tees/Blouses & Button-Down Shirts", 
+                      "name": "Products/Women's/Clothing/Tops & Tees/Blouses & Button-Down Shirts",
                       "size": 34762
                     }
-                  ], 
-                  "name": "Products/Women's/Clothing/Tops & Tees", 
+                  ],
+                  "name": "Products/Women's/Clothing/Tops & Tees",
                   "size": 77922
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Clothing/Coats & Jackets/Wool", 
+                      "name": "self",
+                      "size": 23818
+                    },
+                    {
+                      "name": "Products/Women's/Clothing/Coats & Jackets/Wool",
                       "size": 899
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Coats & Jackets/Vests", 
+                      "name": "Products/Women's/Clothing/Coats & Jackets/Vests",
                       "size": 4293
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Coats & Jackets/Ponchos", 
+                      "name": "Products/Women's/Clothing/Coats & Jackets/Ponchos",
                       "size": 146
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Coats & Jackets/Fur & Faux Fur", 
+                      "name": "Products/Women's/Clothing/Coats & Jackets/Fur & Faux Fur",
                       "size": 2344
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Coats & Jackets/Parkas & Anoraks", 
+                      "name": "Products/Women's/Clothing/Coats & Jackets/Parkas & Anoraks",
                       "size": 1365
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Coats & Jackets/Trenches & Raincoats", 
+                      "name": "Products/Women's/Clothing/Coats & Jackets/Trenches & Raincoats",
                       "size": 2476
                     }
-                  ], 
-                  "name": "Products/Women's/Clothing/Coats & Jackets", 
+                  ],
+                  "name": "Products/Women's/Clothing/Coats & Jackets",
                   "size": 23818
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Clothing/Socks & Hosiery/Socks", 
+                      "name": "self",
+                      "size": 1631
+                    },
+                    {
+                      "name": "Products/Women's/Clothing/Socks & Hosiery/Socks",
                       "size": 10976
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Socks & Hosiery/Tights", 
+                      "name": "Products/Women's/Clothing/Socks & Hosiery/Tights",
                       "size": 1190
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Socks & Hosiery/Pantyhose", 
+                      "name": "Products/Women's/Clothing/Socks & Hosiery/Pantyhose",
                       "size": 1922
                     }
-                  ], 
-                  "name": "Products/Women's/Clothing/Socks & Hosiery", 
+                  ],
+                  "name": "Products/Women's/Clothing/Socks & Hosiery",
                   "size": 1631
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Clothing/Sweats & Hoodies", 
+                  "name": "Products/Women's/Clothing/Sweats & Hoodies",
                   "size": 26281
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Clothing/Sleepwear & Robes/Robes", 
+                      "name": "self",
+                      "size": 2265
+                    },
+                    {
+                      "name": "Products/Women's/Clothing/Sleepwear & Robes/Robes",
                       "size": 1535
-                    }, 
+                    },
                     {
                       "children": [
                         {
-                          "name": "Products/Women's/Clothing/Sleepwear & Robes/Pajamas/Pajama Sets", 
+                          "name": "self",
+                          "size": 4492
+                        },
+                        {
+                          "name": "Products/Women's/Clothing/Sleepwear & Robes/Pajamas/Pajama Sets",
                           "size": 3638
                         }
-                      ], 
-                      "name": "Products/Women's/Clothing/Sleepwear & Robes/Pajamas", 
+                      ],
+                      "name": "Products/Women's/Clothing/Sleepwear & Robes/Pajamas",
                       "size": 4492
-                    }, 
+                    },
                     {
-                      "name": "Products/Women's/Clothing/Sleepwear & Robes/Nightgowns", 
+                      "name": "Products/Women's/Clothing/Sleepwear & Robes/Nightgowns",
                       "size": 1357
                     }
-                  ], 
-                  "name": "Products/Women's/Clothing/Sleepwear & Robes", 
+                  ],
+                  "name": "Products/Women's/Clothing/Sleepwear & Robes",
                   "size": 2265
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Women's/Clothing/Suits & Separates/Skirt Suits", 
+                      "name": "self",
+                      "size": 1218
+                    },
+                    {
+                      "name": "Products/Women's/Clothing/Suits & Separates/Skirt Suits",
                       "size": 149
-                    }, 
+                    },
                     {
                       "children": [
                         {
-                          "name": "Products/Women's/Clothing/Suits & Separates/Blazers & Suit Jackets/Vests", 
+                          "name": "self",
+                          "size": 2320
+                        },
+                        {
+                          "name": "Products/Women's/Clothing/Suits & Separates/Blazers & Suit Jackets/Vests",
                           "size": 228
                         }
-                      ], 
-                      "name": "Products/Women's/Clothing/Suits & Separates/Blazers & Suit Jackets", 
+                      ],
+                      "name": "Products/Women's/Clothing/Suits & Separates/Blazers & Suit Jackets",
                       "size": 2320
                     }
-                  ], 
-                  "name": "Products/Women's/Clothing/Suits & Separates", 
+                  ],
+                  "name": "Products/Women's/Clothing/Suits & Separates",
                   "size": 1218
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Clothing/Jumpsuits & Rompers", 
+                  "name": "Products/Women's/Clothing/Jumpsuits & Rompers",
                   "size": 10322
                 }
-              ], 
-              "name": "Products/Women's/Clothing", 
+              ],
+              "name": "Products/Women's/Clothing",
               "size": 83770
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Women's/Specialty/Fan Gear", 
+                  "name": "self",
+                  "size": 4
+                },
+                {
+                  "name": "Products/Women's/Specialty/Fan Gear",
                   "size": 9460
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Specialty/Costumes", 
+                  "name": "Products/Women's/Specialty/Costumes",
                   "size": 680
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Specialty/Workwear/Scrubs", 
+                  "name": "Products/Women's/Specialty/Workwear/Scrubs",
                   "size": 1050
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Specialty/Workwear/Kitchen", 
+                  "name": "Products/Women's/Specialty/Workwear/Kitchen",
                   "size": 43
                 }
-              ], 
-              "name": "Products/Women's/Specialty", 
+              ],
+              "name": "Products/Women's/Specialty",
               "size": 4
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Women's/Accessories/Hats", 
+                  "name": "self",
+                  "size": 14017
+                },
+                {
+                  "name": "Products/Women's/Accessories/Hats",
                   "size": 5884
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Accessories/Belts", 
+                  "name": "Products/Women's/Accessories/Belts",
                   "size": 2393
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Accessories/Gloves", 
+                  "name": "Products/Women's/Accessories/Gloves",
                   "size": 2201
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Accessories/Eyewear", 
+                  "name": "Products/Women's/Accessories/Eyewear",
                   "size": 9652
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Accessories/Scarves", 
+                  "name": "Products/Women's/Accessories/Scarves",
                   "size": 6748
-                }, 
+                },
                 {
-                  "name": "Products/Women's/Accessories/Hair Accessories", 
+                  "name": "Products/Women's/Accessories/Hair Accessories",
                   "size": 2873
                 }
-              ], 
-              "name": "Products/Women's/Accessories", 
+              ],
+              "name": "Products/Women's/Accessories",
               "size": 14017
             }
-          ], 
-          "name": "Products/Women's", 
+          ],
+          "name": "Products/Women's",
           "size": 36441
-        }, 
+        },
         {
           "children": [
             {
-              "name": "Products/Electronics/Batteries", 
-              "size": 985
-            }, 
+              "name": "self",
+              "size": 38522
+            },
             {
-              "name": "Products/Electronics/Smart Home", 
+              "name": "Products/Electronics/Batteries",
+              "size": 985
+            },
+            {
+              "name": "Products/Electronics/Smart Home",
               "size": 822
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Electronics/Cell Phones/iPhone", 
+                  "name": "self",
+                  "size": 1132
+                },
+                {
+                  "name": "Products/Electronics/Cell Phones/iPhone",
                   "size": 115
-                }, 
+                },
                 {
-                  "name": "Products/Electronics/Cell Phones/Android", 
+                  "name": "Products/Electronics/Cell Phones/Android",
                   "size": 1
-                }, 
+                },
                 {
-                  "name": "Products/Electronics/Cell Phones/Accessories", 
+                  "name": "Products/Electronics/Cell Phones/Accessories",
                   "size": 9184
                 }
-              ], 
-              "name": "Products/Electronics/Cell Phones", 
+              ],
+              "name": "Products/Electronics/Cell Phones",
               "size": 1132
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Electronics/Video Gaming/Games", 
+                  "name": "self",
+                  "size": 8190
+                },
+                {
+                  "name": "Products/Electronics/Video Gaming/Games",
                   "size": 9157
-                }, 
+                },
                 {
-                  "name": "Products/Electronics/Video Gaming/Consoles", 
+                  "name": "Products/Electronics/Video Gaming/Consoles",
                   "size": 311
-                }, 
+                },
                 {
-                  "name": "Products/Electronics/Video Gaming/Peripherals and Accessories", 
+                  "name": "Products/Electronics/Video Gaming/Peripherals and Accessories",
                   "size": 326
                 }
-              ], 
-              "name": "Products/Electronics/Video Gaming", 
+              ],
+              "name": "Products/Electronics/Video Gaming",
               "size": 8190
-            }, 
+            },
             {
-              "name": "Products/Electronics/Wearable Tech", 
+              "name": "Products/Electronics/Wearable Tech",
               "size": 1468
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Electronics/Car Electronics/GPS", 
-                  "size": 150
-                }, 
+                  "name": "self",
+                  "size": 1464
+                },
                 {
-                  "name": "Products/Electronics/Car Electronics/Car Audio", 
+                  "name": "Products/Electronics/Car Electronics/GPS",
+                  "size": 150
+                },
+                {
+                  "name": "Products/Electronics/Car Electronics/Car Audio",
                   "size": 361
                 }
-              ], 
-              "name": "Products/Electronics/Car Electronics", 
+              ],
+              "name": "Products/Electronics/Car Electronics",
               "size": 1464
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Electronics/Office Electronics/Subscriptions & Plans", 
+                  "name": "self",
+                  "size": 6024
+                },
+                {
+                  "name": "Products/Electronics/Office Electronics/Subscriptions & Plans",
                   "size": 11
                 }
-              ], 
-              "name": "Products/Electronics/Office Electronics", 
+              ],
+              "name": "Products/Electronics/Office Electronics",
               "size": 6024
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Electronics/Computers & Tablets/Monitors", 
-                  "size": 517
-                }, 
+                  "name": "self",
+                  "size": 1130
+                },
                 {
-                  "name": "Products/Electronics/Computers & Tablets/Printers & Ink", 
+                  "name": "Products/Electronics/Computers & Tablets/Monitors",
+                  "size": 517
+                },
+                {
+                  "name": "Products/Electronics/Computers & Tablets/Printers & Ink",
                   "size": 2337
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Electronics/Computers & Tablets/Desktops & Laptops/Laptops", 
+                      "name": "self",
+                      "size": 98
+                    },
+                    {
+                      "name": "Products/Electronics/Computers & Tablets/Desktops & Laptops/Laptops",
                       "size": 483
-                    }, 
+                    },
                     {
-                      "name": "Products/Electronics/Computers & Tablets/Desktops & Laptops/Desktops", 
+                      "name": "Products/Electronics/Computers & Tablets/Desktops & Laptops/Desktops",
                       "size": 302
-                    }, 
+                    },
                     {
-                      "name": "Products/Electronics/Computers & Tablets/Desktops & Laptops/Accessories", 
+                      "name": "Products/Electronics/Computers & Tablets/Desktops & Laptops/Accessories",
                       "size": 336835
                     }
-                  ], 
-                  "name": "Products/Electronics/Computers & Tablets/Desktops & Laptops", 
+                  ],
+                  "name": "Products/Electronics/Computers & Tablets/Desktops & Laptops",
                   "size": 98
-                }, 
+                },
                 {
-                  "name": "Products/Electronics/Computers & Tablets/Computer Components", 
+                  "name": "Products/Electronics/Computers & Tablets/Computer Components",
                   "size": 5708
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Electronics/Computers & Tablets/Tablets & E-Readers/Tablets", 
+                      "name": "self",
+                      "size": 18
+                    },
+                    {
+                      "name": "Products/Electronics/Computers & Tablets/Tablets & E-Readers/Tablets",
                       "size": 1452
-                    }, 
+                    },
                     {
-                      "name": "Products/Electronics/Computers & Tablets/Tablets & E-Readers/E-Readers", 
+                      "name": "Products/Electronics/Computers & Tablets/Tablets & E-Readers/E-Readers",
                       "size": 45
-                    }, 
+                    },
                     {
-                      "name": "Products/Electronics/Computers & Tablets/Tablets & E-Readers/Accessories", 
+                      "name": "Products/Electronics/Computers & Tablets/Tablets & E-Readers/Accessories",
                       "size": 31
                     }
-                  ], 
-                  "name": "Products/Electronics/Computers & Tablets/Tablets & E-Readers", 
+                  ],
+                  "name": "Products/Electronics/Computers & Tablets/Tablets & E-Readers",
                   "size": 18
                 }
-              ], 
-              "name": "Products/Electronics/Computers & Tablets", 
+              ],
+              "name": "Products/Electronics/Computers & Tablets",
               "size": 1130
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Electronics/Cameras & Camcorders/Cameras", 
+                  "name": "self",
+                  "size": 63
+                },
+                {
+                  "name": "Products/Electronics/Cameras & Camcorders/Cameras",
                   "size": 1499
-                }, 
+                },
                 {
-                  "name": "Products/Electronics/Cameras & Camcorders/Camcorders", 
+                  "name": "Products/Electronics/Cameras & Camcorders/Camcorders",
                   "size": 157
-                }, 
+                },
                 {
-                  "name": "Products/Electronics/Cameras & Camcorders/Accessories", 
+                  "name": "Products/Electronics/Cameras & Camcorders/Accessories",
                   "size": 696
                 }
-              ], 
-              "name": "Products/Electronics/Cameras & Camcorders", 
+              ],
+              "name": "Products/Electronics/Cameras & Camcorders",
               "size": 63
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Electronics/Audio & Home Theater/TV & Video", 
+                  "name": "self",
+                  "size": 1591
+                },
+                {
+                  "name": "Products/Electronics/Audio & Home Theater/TV & Video",
                   "size": 19976
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Electronics/Audio & Home Theater/Home Audio/Sound Bars", 
+                      "name": "self",
+                      "size": 601
+                    },
+                    {
+                      "name": "Products/Electronics/Audio & Home Theater/Home Audio/Sound Bars",
                       "size": 9
-                    }, 
+                    },
                     {
-                      "name": "Products/Electronics/Audio & Home Theater/Home Audio/Receivers & Amplifiers", 
+                      "name": "Products/Electronics/Audio & Home Theater/Home Audio/Receivers & Amplifiers",
                       "size": 25
-                    }, 
+                    },
                     {
-                      "name": "Products/Electronics/Audio & Home Theater/Home Audio/Wireless & Multi-Room Audio", 
+                      "name": "Products/Electronics/Audio & Home Theater/Home Audio/Wireless & Multi-Room Audio",
                       "size": 16
                     }
-                  ], 
-                  "name": "Products/Electronics/Audio & Home Theater/Home Audio", 
+                  ],
+                  "name": "Products/Electronics/Audio & Home Theater/Home Audio",
                   "size": 601
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Electronics/Audio & Home Theater/Portable Audio/Headphones", 
-                      "size": 2144
-                    }, 
+                      "name": "self",
+                      "size": 555
+                    },
                     {
-                      "name": "Products/Electronics/Audio & Home Theater/Portable Audio/Portable Speakers", 
+                      "name": "Products/Electronics/Audio & Home Theater/Portable Audio/Headphones",
+                      "size": 2144
+                    },
+                    {
+                      "name": "Products/Electronics/Audio & Home Theater/Portable Audio/Portable Speakers",
                       "size": 1005
                     }
-                  ], 
-                  "name": "Products/Electronics/Audio & Home Theater/Portable Audio", 
+                  ],
+                  "name": "Products/Electronics/Audio & Home Theater/Portable Audio",
                   "size": 555
                 }
-              ], 
-              "name": "Products/Electronics/Audio & Home Theater", 
+              ],
+              "name": "Products/Electronics/Audio & Home Theater",
               "size": 1591
-            }, 
+            },
             {
-              "name": "Products/Electronics/Musical Instruments & Equipment", 
+              "name": "Products/Electronics/Musical Instruments & Equipment",
               "size": 68772
             }
-          ], 
-          "name": "Products/Electronics", 
+          ],
+          "name": "Products/Electronics",
           "size": 38522
-        }, 
+        },
         {
           "children": [
             {
+              "name": "self",
+              "size": 36163
+            },
+            {
               "children": [
                 {
-                  "name": "Products/Toys & Games/Games/Game Room Games", 
+                  "name": "self",
+                  "size": 10039
+                },
+                {
+                  "name": "Products/Toys & Games/Games/Game Room Games",
                   "size": 1900
                 }
-              ], 
-              "name": "Products/Toys & Games/Games", 
+              ],
+              "name": "Products/Toys & Games/Games",
               "size": 10039
-            }, 
+            },
             {
-              "name": "Products/Toys & Games/Dolls", 
+              "name": "Products/Toys & Games/Dolls",
               "size": 7547
-            }, 
+            },
             {
-              "name": "Products/Toys & Games/Stuffed Animals & Plush", 
+              "name": "Products/Toys & Games/Stuffed Animals & Plush",
               "size": 3325
             }
-          ], 
-          "name": "Products/Toys & Games", 
+          ],
+          "name": "Products/Toys & Games",
           "size": 36163
-        }, 
+        },
         {
           "children": [
             {
+              "name": "self",
+              "size": 11709
+            },
+            {
               "children": [
+                {
+                  "name": "self",
+                  "size": 2502
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Shoes/Boots", 
+                      "name": "self",
+                      "size": 1815
+                    },
+                    {
+                      "name": "Products/Kids' & Baby/Boys'/Shoes/Boots",
                       "size": 1582
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Shoes/Sandals", 
+                      "name": "Products/Kids' & Baby/Boys'/Shoes/Sandals",
                       "size": 334
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Shoes/Sneakers", 
+                      "name": "Products/Kids' & Baby/Boys'/Shoes/Sneakers",
                       "size": 6795
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Shoes/Slippers", 
+                      "name": "Products/Kids' & Baby/Boys'/Shoes/Slippers",
                       "size": 125
                     }
-                  ], 
-                  "name": "Products/Kids' & Baby/Boys'/Shoes", 
+                  ],
+                  "name": "Products/Kids' & Baby/Boys'/Shoes",
                   "size": 1815
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Swim", 
+                      "name": "self",
+                      "size": 2330
+                    },
+                    {
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Swim",
                       "size": 871
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Jeans", 
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Jeans",
                       "size": 1039
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Pants", 
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Pants",
                       "size": 2554
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Socks", 
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Socks",
                       "size": 529
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Shorts", 
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Shorts",
                       "size": 2038
-                    }, 
+                    },
                     {
                       "children": [
                         {
-                          "name": "Products/Kids' & Baby/Boys'/Clothing/Active/Sweatshirts, Pants & Suits", 
+                          "name": "self",
+                          "size": 1762
+                        },
+                        {
+                          "name": "Products/Kids' & Baby/Boys'/Clothing/Active/Sweatshirts, Pants & Suits",
                           "size": 3
                         }
-                      ], 
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Active", 
+                      ],
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Active",
                       "size": 1762
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Sweaters", 
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Sweaters",
                       "size": 417
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Underwear", 
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Underwear",
                       "size": 103
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Undershirts", 
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Undershirts",
                       "size": 456
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Suits & Vests", 
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Suits & Vests",
                       "size": 72
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Clothing Sets", 
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Clothing Sets",
                       "size": 2152
-                    }, 
+                    },
                     {
                       "children": [
                         {
-                          "name": "Products/Kids' & Baby/Boys'/Clothing/Shirts & Polos/Dress Shirts", 
+                          "name": "self",
+                          "size": 12033
+                        },
+                        {
+                          "name": "Products/Kids' & Baby/Boys'/Clothing/Shirts & Polos/Dress Shirts",
                           "size": 861
                         }
-                      ], 
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Shirts & Polos", 
+                      ],
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Shirts & Polos",
                       "size": 12033
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Coats & Jackets", 
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Coats & Jackets",
                       "size": 2481
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Sweats & Hoodies", 
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Sweats & Hoodies",
                       "size": 2498
-                    }, 
+                    },
                     {
                       "children": [
                         {
+                          "name": "self",
+                          "size": 92
+                        },
+                        {
                           "children": [
                             {
-                              "name": "Products/Kids' & Baby/Boys'/Clothing/Sleepwear & Robes/Pajamas/Pajama Sets", 
+                              "name": "self",
+                              "size": 374
+                            },
+                            {
+                              "name": "Products/Kids' & Baby/Boys'/Clothing/Sleepwear & Robes/Pajamas/Pajama Sets",
                               "size": 143
                             }
-                          ], 
-                          "name": "Products/Kids' & Baby/Boys'/Clothing/Sleepwear & Robes/Pajamas", 
+                          ],
+                          "name": "Products/Kids' & Baby/Boys'/Clothing/Sleepwear & Robes/Pajamas",
                           "size": 374
                         }
-                      ], 
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Sleepwear & Robes", 
+                      ],
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Sleepwear & Robes",
                       "size": 92
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Clothing/Suits & Sport Coats", 
+                      "name": "Products/Kids' & Baby/Boys'/Clothing/Suits & Sport Coats",
                       "size": 165
                     }
-                  ], 
-                  "name": "Products/Kids' & Baby/Boys'/Clothing", 
+                  ],
+                  "name": "Products/Kids' & Baby/Boys'/Clothing",
                   "size": 2330
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Specialty/Costumes", 
-                      "size": 218
-                    }, 
+                      "name": "self",
+                      "size": 1
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Specialty/Fan Gear", 
+                      "name": "Products/Kids' & Baby/Boys'/Specialty/Costumes",
+                      "size": 218
+                    },
+                    {
+                      "name": "Products/Kids' & Baby/Boys'/Specialty/Fan Gear",
                       "size": 719
                     }
-                  ], 
-                  "name": "Products/Kids' & Baby/Boys'/Specialty", 
+                  ],
+                  "name": "Products/Kids' & Baby/Boys'/Specialty",
                   "size": 1
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Accessories/Hats", 
+                      "name": "self",
+                      "size": 14785
+                    },
+                    {
+                      "name": "Products/Kids' & Baby/Boys'/Accessories/Hats",
                       "size": 393
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Accessories/Belts", 
+                      "name": "Products/Kids' & Baby/Boys'/Accessories/Belts",
                       "size": 187
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Boys'/Accessories/Gloves", 
+                      "name": "Products/Kids' & Baby/Boys'/Accessories/Gloves",
                       "size": 24
                     }
-                  ], 
-                  "name": "Products/Kids' & Baby/Boys'/Accessories", 
+                  ],
+                  "name": "Products/Kids' & Baby/Boys'/Accessories",
                   "size": 14785
                 }
-              ], 
-              "name": "Products/Kids' & Baby/Boys'", 
+              ],
+              "name": "Products/Kids' & Baby/Boys'",
               "size": 2502
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Kids' & Baby/Girls'/Bags", 
+                  "name": "self",
+                  "size": 7076
+                },
+                {
+                  "name": "Products/Kids' & Baby/Girls'/Bags",
                   "size": 157
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Shoes/Flats", 
+                      "name": "self",
+                      "size": 6022
+                    },
+                    {
+                      "name": "Products/Kids' & Baby/Girls'/Shoes/Flats",
                       "size": 1556
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Shoes/Boots", 
+                      "name": "Products/Kids' & Baby/Girls'/Shoes/Boots",
                       "size": 5855
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Shoes/Loafers", 
+                      "name": "Products/Kids' & Baby/Girls'/Shoes/Loafers",
                       "size": 89
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Shoes/Sandals", 
+                      "name": "Products/Kids' & Baby/Girls'/Shoes/Sandals",
                       "size": 1719
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Shoes/Slippers", 
+                      "name": "Products/Kids' & Baby/Girls'/Shoes/Slippers",
                       "size": 518
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Shoes/Sneakers", 
+                      "name": "Products/Kids' & Baby/Girls'/Shoes/Sneakers",
                       "size": 3414
                     }
-                  ], 
-                  "name": "Products/Kids' & Baby/Girls'/Shoes", 
+                  ],
+                  "name": "Products/Kids' & Baby/Girls'/Shoes",
                   "size": 6022
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Swim", 
+                      "name": "self",
+                      "size": 7275
+                    },
+                    {
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Swim",
                       "size": 1725
-                    }, 
+                    },
                     {
                       "children": [
                         {
-                          "name": "Products/Kids' & Baby/Girls'/Clothing/Pants/Leggings", 
+                          "name": "self",
+                          "size": 2839
+                        },
+                        {
+                          "name": "Products/Kids' & Baby/Girls'/Clothing/Pants/Leggings",
                           "size": 2904
                         }
-                      ], 
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Pants", 
+                      ],
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Pants",
                       "size": 2839
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Jeans", 
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Jeans",
                       "size": 2804
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Active", 
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Active",
                       "size": 7994
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Skirts", 
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Skirts",
                       "size": 2671
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Shorts", 
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Shorts",
                       "size": 1745
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Dresses", 
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Dresses",
                       "size": 6047
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Sweaters", 
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Sweaters",
                       "size": 1334
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Underwear", 
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Underwear",
                       "size": 798
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Tops & Tees", 
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Tops & Tees",
                       "size": 18430
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Clothing Sets", 
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Clothing Sets",
                       "size": 1513
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Socks & Tights", 
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Socks & Tights",
                       "size": 1987
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Coats & Jackets", 
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Coats & Jackets",
                       "size": 2707
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Sweats & Hoodies", 
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Sweats & Hoodies",
                       "size": 1085
-                    }, 
+                    },
                     {
                       "children": [
                         {
+                          "name": "self",
+                          "size": 240
+                        },
+                        {
                           "children": [
                             {
-                              "name": "Products/Kids' & Baby/Girls'/Clothing/Sleepwear & Robes/Pajamas/Pajama Sets", 
+                              "name": "self",
+                              "size": 134
+                            },
+                            {
+                              "name": "Products/Kids' & Baby/Girls'/Clothing/Sleepwear & Robes/Pajamas/Pajama Sets",
                               "size": 2070
                             }
-                          ], 
-                          "name": "Products/Kids' & Baby/Girls'/Clothing/Sleepwear & Robes/Pajamas", 
+                          ],
+                          "name": "Products/Kids' & Baby/Girls'/Clothing/Sleepwear & Robes/Pajamas",
                           "size": 134
                         }
-                      ], 
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Sleepwear & Robes", 
+                      ],
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Sleepwear & Robes",
                       "size": 240
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Clothing/Jumpsuits, Overalls & Rompers", 
+                      "name": "Products/Kids' & Baby/Girls'/Clothing/Jumpsuits, Overalls & Rompers",
                       "size": 368
                     }
-                  ], 
-                  "name": "Products/Kids' & Baby/Girls'/Clothing", 
+                  ],
+                  "name": "Products/Kids' & Baby/Girls'/Clothing",
                   "size": 7275
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Specialty/Fan Gear", 
-                      "size": 79
-                    }, 
+                      "name": "self",
+                      "size": 6
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Specialty/Costumes", 
+                      "name": "Products/Kids' & Baby/Girls'/Specialty/Fan Gear",
+                      "size": 79
+                    },
+                    {
+                      "name": "Products/Kids' & Baby/Girls'/Specialty/Costumes",
                       "size": 197
                     }
-                  ], 
-                  "name": "Products/Kids' & Baby/Girls'/Specialty", 
+                  ],
+                  "name": "Products/Kids' & Baby/Girls'/Specialty",
                   "size": 6
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Accessories/Hats", 
+                      "name": "self",
+                      "size": 5004
+                    },
+                    {
+                      "name": "Products/Kids' & Baby/Girls'/Accessories/Hats",
                       "size": 624
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Accessories/Belts", 
+                      "name": "Products/Kids' & Baby/Girls'/Accessories/Belts",
                       "size": 106
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Accessories/Gloves", 
+                      "name": "Products/Kids' & Baby/Girls'/Accessories/Gloves",
                       "size": 130
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Accessories/Eyewear", 
+                      "name": "Products/Kids' & Baby/Girls'/Accessories/Eyewear",
                       "size": 61
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Girls'/Accessories/Scarves", 
+                      "name": "Products/Kids' & Baby/Girls'/Accessories/Scarves",
                       "size": 27
                     }
-                  ], 
-                  "name": "Products/Kids' & Baby/Girls'/Accessories", 
+                  ],
+                  "name": "Products/Kids' & Baby/Girls'/Accessories",
                   "size": 5004
                 }
-              ], 
-              "name": "Products/Kids' & Baby/Girls'", 
+              ],
+              "name": "Products/Kids' & Baby/Girls'",
               "size": 7076
-            }, 
+            },
             {
               "children": [
                 {
+                  "name": "self",
+                  "size": 5279
+                },
+                {
                   "children": [
                     {
-                      "name": "Products/Kids' & Baby/Infant & Toddler/Shoes/Flats", 
+                      "name": "self",
+                      "size": 4787
+                    },
+                    {
+                      "name": "Products/Kids' & Baby/Infant & Toddler/Shoes/Flats",
                       "size": 1791
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Infant & Toddler/Shoes/Boots", 
+                      "name": "Products/Kids' & Baby/Infant & Toddler/Shoes/Boots",
                       "size": 2924
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Infant & Toddler/Shoes/Sandals", 
+                      "name": "Products/Kids' & Baby/Infant & Toddler/Shoes/Sandals",
                       "size": 2228
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Infant & Toddler/Shoes/Sneakers", 
+                      "name": "Products/Kids' & Baby/Infant & Toddler/Shoes/Sneakers",
                       "size": 6477
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Infant & Toddler/Shoes/Slippers", 
+                      "name": "Products/Kids' & Baby/Infant & Toddler/Shoes/Slippers",
                       "size": 526
                     }
-                  ], 
-                  "name": "Products/Kids' & Baby/Infant & Toddler/Shoes", 
+                  ],
+                  "name": "Products/Kids' & Baby/Infant & Toddler/Shoes",
                   "size": 4787
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Kids' & Baby/Infant & Toddler/Clothing/Swim", 
+                      "name": "self",
+                      "size": 61056
+                    },
+                    {
+                      "name": "Products/Kids' & Baby/Infant & Toddler/Clothing/Swim",
                       "size": 945
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Infant & Toddler/Clothing/Socks", 
+                      "name": "Products/Kids' & Baby/Infant & Toddler/Clothing/Socks",
                       "size": 2313
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Infant & Toddler/Clothing/Separates", 
+                      "name": "Products/Kids' & Baby/Infant & Toddler/Clothing/Separates",
                       "size": 1454
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Infant & Toddler/Clothing/One-Pieces", 
+                      "name": "Products/Kids' & Baby/Infant & Toddler/Clothing/One-Pieces",
                       "size": 2498
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Infant & Toddler/Clothing/Clothing Sets", 
+                      "name": "Products/Kids' & Baby/Infant & Toddler/Clothing/Clothing Sets",
                       "size": 687
                     }
-                  ], 
-                  "name": "Products/Kids' & Baby/Infant & Toddler/Clothing", 
+                  ],
+                  "name": "Products/Kids' & Baby/Infant & Toddler/Clothing",
                   "size": 61056
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Gear", 
+                      "name": "self",
+                      "size": 13755
+                    },
+                    {
+                      "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Gear",
                       "size": 1759
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Feeding", 
+                      "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Feeding",
                       "size": 698
-                    }, 
+                    },
                     {
-                      "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Diaper Bags", 
+                      "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Diaper Bags",
                       "size": 1745
-                    }, 
+                    },
                     {
                       "children": [
                         {
+                          "name": "self",
+                          "size": 650
+                        },
+                        {
                           "children": [
                             {
-                              "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Car Seats & Accessories/Car Seats/Infant", 
-                              "size": 61
-                            }, 
+                              "name": "self",
+                              "size": 252
+                            },
                             {
-                              "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Car Seats & Accessories/Car Seats/Toddler", 
+                              "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Car Seats & Accessories/Car Seats/Infant",
+                              "size": 61
+                            },
+                            {
+                              "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Car Seats & Accessories/Car Seats/Toddler",
                               "size": 2054
                             }
-                          ], 
-                          "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Car Seats & Accessories/Car Seats", 
+                          ],
+                          "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Car Seats & Accessories/Car Seats",
                           "size": 252
                         }
-                      ], 
-                      "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Car Seats & Accessories", 
+                      ],
+                      "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products/Car Seats & Accessories",
                       "size": 650
                     }
-                  ], 
-                  "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products", 
+                  ],
+                  "name": "Products/Kids' & Baby/Infant & Toddler/Baby Products",
                   "size": 13755
-                }, 
+                },
                 {
-                  "name": "Products/Kids' & Baby/Infant & Toddler/Specialty/Fan Gear", 
+                  "name": "Products/Kids' & Baby/Infant & Toddler/Specialty/Fan Gear",
                   "size": 131
-                }, 
+                },
                 {
-                  "name": "Products/Kids' & Baby/Infant & Toddler/Specialty/Costumes", 
+                  "name": "Products/Kids' & Baby/Infant & Toddler/Specialty/Costumes",
                   "size": 1136
                 }
-              ], 
-              "name": "Products/Kids' & Baby/Infant & Toddler", 
+              ],
+              "name": "Products/Kids' & Baby/Infant & Toddler",
               "size": 5279
             }
-          ], 
-          "name": "Products/Kids' & Baby", 
+          ],
+          "name": "Products/Kids' & Baby",
           "size": 11709
-        }, 
+        },
         {
           "children": [
             {
+              "name": "self",
+              "size": 139431
+            },
+            {
               "children": [
+                {
+                  "name": "self",
+                  "size": 13215
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Health & Beauty/Makeup/Eyes/Mascara", 
+                      "name": "self",
+                      "size": 4211
+                    },
+                    {
+                      "name": "Products/Health & Beauty/Makeup/Eyes/Mascara",
                       "size": 996
-                    }, 
+                    },
                     {
-                      "name": "Products/Health & Beauty/Makeup/Eyes/Eye Liners", 
+                      "name": "Products/Health & Beauty/Makeup/Eyes/Eye Liners",
                       "size": 962
-                    }, 
+                    },
                     {
-                      "name": "Products/Health & Beauty/Makeup/Eyes/Eye Shadows", 
+                      "name": "Products/Health & Beauty/Makeup/Eyes/Eye Shadows",
                       "size": 1978
                     }
-                  ], 
-                  "name": "Products/Health & Beauty/Makeup/Eyes", 
+                  ],
+                  "name": "Products/Health & Beauty/Makeup/Eyes",
                   "size": 4211
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Health & Beauty/Makeup/Face/Powders", 
+                      "name": "self",
+                      "size": 1858
+                    },
+                    {
+                      "name": "Products/Health & Beauty/Makeup/Face/Powders",
                       "size": 1343
-                    }, 
+                    },
                     {
-                      "name": "Products/Health & Beauty/Makeup/Face/Blushes", 
+                      "name": "Products/Health & Beauty/Makeup/Face/Blushes",
                       "size": 444
-                    }, 
+                    },
                     {
-                      "name": "Products/Health & Beauty/Makeup/Face/Foundations", 
+                      "name": "Products/Health & Beauty/Makeup/Face/Foundations",
                       "size": 4650
-                    }, 
+                    },
                     {
-                      "name": "Products/Health & Beauty/Makeup/Face/Bronzers & Highlighters", 
+                      "name": "Products/Health & Beauty/Makeup/Face/Bronzers & Highlighters",
                       "size": 369
-                    }, 
+                    },
                     {
-                      "name": "Products/Health & Beauty/Makeup/Face/Concealers & Neutralizers", 
+                      "name": "Products/Health & Beauty/Makeup/Face/Concealers & Neutralizers",
                       "size": 655
                     }
-                  ], 
-                  "name": "Products/Health & Beauty/Makeup/Face", 
+                  ],
+                  "name": "Products/Health & Beauty/Makeup/Face",
                   "size": 1858
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Health & Beauty/Makeup/Lips/Lipstick", 
+                      "name": "self",
+                      "size": 4786
+                    },
+                    {
+                      "name": "Products/Health & Beauty/Makeup/Lips/Lipstick",
                       "size": 4856
-                    }, 
+                    },
                     {
-                      "name": "Products/Health & Beauty/Makeup/Lips/Lip Liners", 
+                      "name": "Products/Health & Beauty/Makeup/Lips/Lip Liners",
                       "size": 934
-                    }, 
+                    },
                     {
-                      "name": "Products/Health & Beauty/Makeup/Lips/Lip Glosses", 
+                      "name": "Products/Health & Beauty/Makeup/Lips/Lip Glosses",
                       "size": 940
                     }
-                  ], 
-                  "name": "Products/Health & Beauty/Makeup/Lips", 
+                  ],
+                  "name": "Products/Health & Beauty/Makeup/Lips",
                   "size": 4786
-                }, 
+                },
                 {
-                  "name": "Products/Health & Beauty/Makeup/Nails", 
+                  "name": "Products/Health & Beauty/Makeup/Nails",
                   "size": 2357
-                }, 
+                },
                 {
-                  "name": "Products/Health & Beauty/Makeup/Bags & Cases", 
+                  "name": "Products/Health & Beauty/Makeup/Bags & Cases",
                   "size": 943
-                }, 
+                },
                 {
-                  "name": "Products/Health & Beauty/Makeup/Makeup Remover", 
+                  "name": "Products/Health & Beauty/Makeup/Makeup Remover",
                   "size": 410
-                }, 
+                },
                 {
-                  "name": "Products/Health & Beauty/Makeup/Makeup Palettes", 
+                  "name": "Products/Health & Beauty/Makeup/Makeup Palettes",
                   "size": 17
-                }, 
+                },
                 {
-                  "name": "Products/Health & Beauty/Makeup/Brushes & Tools", 
+                  "name": "Products/Health & Beauty/Makeup/Brushes & Tools",
                   "size": 1067
                 }
-              ], 
-              "name": "Products/Health & Beauty/Makeup", 
+              ],
+              "name": "Products/Health & Beauty/Makeup",
               "size": 13215
-            }, 
+            },
             {
-              "name": "Products/Health & Beauty/Eye Care", 
+              "name": "Products/Health & Beauty/Eye Care",
               "size": 11
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Health & Beauty/Skin Care/Sun", 
+                  "name": "self",
+                  "size": 5074
+                },
+                {
+                  "name": "Products/Health & Beauty/Skin Care/Sun",
                   "size": 446
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Health & Beauty/Skin Care/Body/Lotions & Moisturizers", 
+                      "name": "self",
+                      "size": 1037
+                    },
+                    {
+                      "name": "Products/Health & Beauty/Skin Care/Body/Lotions & Moisturizers",
                       "size": 4221
                     }
-                  ], 
-                  "name": "Products/Health & Beauty/Skin Care/Body", 
+                  ],
+                  "name": "Products/Health & Beauty/Skin Care/Body",
                   "size": 1037
-                }, 
+                },
                 {
-                  "name": "Products/Health & Beauty/Skin Care/Face", 
+                  "name": "Products/Health & Beauty/Skin Care/Face",
                   "size": 1175
-                }, 
+                },
                 {
-                  "name": "Products/Health & Beauty/Skin Care/Lips", 
+                  "name": "Products/Health & Beauty/Skin Care/Lips",
                   "size": 170
-                }, 
+                },
                 {
-                  "name": "Products/Health & Beauty/Skin Care/Eyes", 
+                  "name": "Products/Health & Beauty/Skin Care/Eyes",
                   "size": 335
-                }, 
+                },
                 {
-                  "name": "Products/Health & Beauty/Skin Care/Hair Removal", 
+                  "name": "Products/Health & Beauty/Skin Care/Hair Removal",
                   "size": 754
                 }
-              ], 
-              "name": "Products/Health & Beauty/Skin Care", 
+              ],
+              "name": "Products/Health & Beauty/Skin Care",
               "size": 5074
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Health & Beauty/Oral Care/Toothbrushes", 
+                  "name": "self",
+                  "size": 544
+                },
+                {
+                  "name": "Products/Health & Beauty/Oral Care/Toothbrushes",
                   "size": 2424
                 }
-              ], 
-              "name": "Products/Health & Beauty/Oral Care", 
+              ],
+              "name": "Products/Health & Beauty/Oral Care",
               "size": 544
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Health & Beauty/Fragrance/Sets", 
+                  "name": "self",
+                  "size": 3911
+                },
+                {
+                  "name": "Products/Health & Beauty/Fragrance/Sets",
                   "size": 1065
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Health & Beauty/Fragrance/Men's/Cologne", 
+                      "name": "self",
+                      "size": 735
+                    },
+                    {
+                      "name": "Products/Health & Beauty/Fragrance/Men's/Cologne",
                       "size": 2071
                     }
-                  ], 
-                  "name": "Products/Health & Beauty/Fragrance/Men's", 
+                  ],
+                  "name": "Products/Health & Beauty/Fragrance/Men's",
                   "size": 735
-                }, 
+                },
                 {
                   "children": [
                     {
-                      "name": "Products/Health & Beauty/Fragrance/Women's/Perfume", 
-                      "size": 3655
-                    }, 
+                      "name": "self",
+                      "size": 94
+                    },
                     {
-                      "name": "Products/Health & Beauty/Fragrance/Women's/Cologne", 
+                      "name": "Products/Health & Beauty/Fragrance/Women's/Perfume",
+                      "size": 3655
+                    },
+                    {
+                      "name": "Products/Health & Beauty/Fragrance/Women's/Cologne",
                       "size": 273
                     }
-                  ], 
-                  "name": "Products/Health & Beauty/Fragrance/Women's", 
+                  ],
+                  "name": "Products/Health & Beauty/Fragrance/Women's",
                   "size": 94
                 }
-              ], 
-              "name": "Products/Health & Beauty/Fragrance", 
+              ],
+              "name": "Products/Health & Beauty/Fragrance",
               "size": 3911
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Health & Beauty/Hair Care/Shampoos", 
+                  "name": "self",
+                  "size": 8283
+                },
+                {
+                  "name": "Products/Health & Beauty/Hair Care/Shampoos",
                   "size": 2787
-                }, 
+                },
                 {
-                  "name": "Products/Health & Beauty/Hair Care/Conditioners", 
+                  "name": "Products/Health & Beauty/Hair Care/Conditioners",
                   "size": 2291
-                }, 
+                },
                 {
-                  "name": "Products/Health & Beauty/Hair Care/Styling Products", 
+                  "name": "Products/Health & Beauty/Hair Care/Styling Products",
                   "size": 1148
-                }, 
+                },
                 {
-                  "name": "Products/Health & Beauty/Hair Care/Hair Styling Tools", 
+                  "name": "Products/Health & Beauty/Hair Care/Hair Styling Tools",
                   "size": 7
                 }
-              ], 
-              "name": "Products/Health & Beauty/Hair Care", 
+              ],
+              "name": "Products/Health & Beauty/Hair Care",
               "size": 8283
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Health & Beauty/Bath & Body/Sets", 
-                  "size": 478
-                }, 
+                  "name": "self",
+                  "size": 18854
+                },
                 {
-                  "name": "Products/Health & Beauty/Bath & Body/Bathing Accessories", 
+                  "name": "Products/Health & Beauty/Bath & Body/Sets",
+                  "size": 478
+                },
+                {
+                  "name": "Products/Health & Beauty/Bath & Body/Bathing Accessories",
                   "size": 193
                 }
-              ], 
-              "name": "Products/Health & Beauty/Bath & Body", 
+              ],
+              "name": "Products/Health & Beauty/Bath & Body",
               "size": 18854
-            }, 
+            },
             {
-              "name": "Products/Health & Beauty/Sexual Health", 
+              "name": "Products/Health & Beauty/Sexual Health",
               "size": 514
-            }, 
+            },
             {
-              "name": "Products/Health & Beauty/Feminine Care", 
+              "name": "Products/Health & Beauty/Feminine Care",
               "size": 5
-            }, 
+            },
             {
-              "name": "Products/Health & Beauty/Men's Grooming", 
+              "name": "Products/Health & Beauty/Men's Grooming",
               "size": 113
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Health & Beauty/Diet & Wellness/Cleanses", 
+                  "name": "self",
+                  "size": 847
+                },
+                {
+                  "name": "Products/Health & Beauty/Diet & Wellness/Cleanses",
                   "size": 205
-                }, 
+                },
                 {
-                  "name": "Products/Health & Beauty/Diet & Wellness/Digestion", 
+                  "name": "Products/Health & Beauty/Diet & Wellness/Digestion",
                   "size": 162
-                }, 
+                },
                 {
-                  "name": "Products/Health & Beauty/Diet & Wellness/Weight Management", 
+                  "name": "Products/Health & Beauty/Diet & Wellness/Weight Management",
                   "size": 103
                 }
-              ], 
-              "name": "Products/Health & Beauty/Diet & Wellness", 
+              ],
+              "name": "Products/Health & Beauty/Diet & Wellness",
               "size": 847
-            }, 
+            },
             {
-              "name": "Products/Health & Beauty/Sports Nutrition", 
+              "name": "Products/Health & Beauty/Sports Nutrition",
               "size": 1743
-            }, 
+            },
             {
-              "name": "Products/Health & Beauty/Vitamins & Supplements", 
+              "name": "Products/Health & Beauty/Vitamins & Supplements",
               "size": 7542
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Health & Beauty/Medicines & Treatments/Herbs & Natural Remedies", 
+                  "name": "self",
+                  "size": 417
+                },
+                {
+                  "name": "Products/Health & Beauty/Medicines & Treatments/Herbs & Natural Remedies",
                   "size": 1379
                 }
-              ], 
-              "name": "Products/Health & Beauty/Medicines & Treatments", 
+              ],
+              "name": "Products/Health & Beauty/Medicines & Treatments",
               "size": 417
-            }, 
+            },
             {
-              "name": "Products/Health & Beauty/Deodorants & Antiperspirants", 
+              "name": "Products/Health & Beauty/Deodorants & Antiperspirants",
               "size": 1350
             }
-          ], 
-          "name": "Products/Health & Beauty", 
+          ],
+          "name": "Products/Health & Beauty",
           "size": 139431
-        }, 
+        },
         {
           "children": [
             {
+              "name": "self",
+              "size": 205070
+            },
+            {
               "children": [
                 {
-                  "name": "Products/Sports & Outdoors/Golf/Shoes", 
-                  "size": 636
-                }, 
+                  "name": "self",
+                  "size": 5448
+                },
                 {
-                  "name": "Products/Sports & Outdoors/Golf/Balls", 
+                  "name": "Products/Sports & Outdoors/Golf/Shoes",
+                  "size": 636
+                },
+                {
+                  "name": "Products/Sports & Outdoors/Golf/Balls",
                   "size": 522
                 }
-              ], 
-              "name": "Products/Sports & Outdoors/Golf", 
+              ],
+              "name": "Products/Sports & Outdoors/Golf",
               "size": 5448
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Sports & Outdoors/Tennis/Balls", 
+                  "name": "self",
+                  "size": 704
+                },
+                {
+                  "name": "Products/Sports & Outdoors/Tennis/Balls",
                   "size": 86
                 }
-              ], 
-              "name": "Products/Sports & Outdoors/Tennis", 
+              ],
+              "name": "Products/Sports & Outdoors/Tennis",
               "size": 704
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Sports & Outdoors/Soccer/Shoes", 
-                  "size": 558
-                }, 
+                  "name": "self",
+                  "size": 3243
+                },
                 {
-                  "name": "Products/Sports & Outdoors/Soccer/Balls", 
+                  "name": "Products/Sports & Outdoors/Soccer/Shoes",
+                  "size": 558
+                },
+                {
+                  "name": "Products/Sports & Outdoors/Soccer/Balls",
                   "size": 126
                 }
-              ], 
-              "name": "Products/Sports & Outdoors/Soccer", 
+              ],
+              "name": "Products/Sports & Outdoors/Soccer",
               "size": 3243
-            }, 
+            },
             {
-              "name": "Products/Sports & Outdoors/Cycling", 
+              "name": "Products/Sports & Outdoors/Cycling",
               "size": 2294
-            }, 
+            },
             {
-              "name": "Products/Sports & Outdoors/Hunting", 
+              "name": "Products/Sports & Outdoors/Hunting",
               "size": 141
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Sports & Outdoors/Football/Balls", 
+                  "name": "self",
+                  "size": 4657
+                },
+                {
+                  "name": "Products/Sports & Outdoors/Football/Balls",
                   "size": 23
-                }, 
+                },
                 {
-                  "name": "Products/Sports & Outdoors/Football/Shoes", 
+                  "name": "Products/Sports & Outdoors/Football/Shoes",
                   "size": 1
-                }, 
+                },
                 {
-                  "name": "Products/Sports & Outdoors/Football/Protective Gear", 
+                  "name": "Products/Sports & Outdoors/Football/Protective Gear",
                   "size": 1
                 }
-              ], 
-              "name": "Products/Sports & Outdoors/Football", 
+              ],
+              "name": "Products/Sports & Outdoors/Football",
               "size": 4657
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Sports & Outdoors/Lacrosse/Shoes", 
-                  "size": 12
-                }, 
+                  "name": "self",
+                  "size": 306
+                },
                 {
-                  "name": "Products/Sports & Outdoors/Lacrosse/Balls", 
+                  "name": "Products/Sports & Outdoors/Lacrosse/Shoes",
+                  "size": 12
+                },
+                {
+                  "name": "Products/Sports & Outdoors/Lacrosse/Balls",
                   "size": 32
                 }
-              ], 
-              "name": "Products/Sports & Outdoors/Lacrosse", 
+              ],
+              "name": "Products/Sports & Outdoors/Lacrosse",
               "size": 306
-            }, 
+            },
             {
-              "name": "Products/Sports & Outdoors/Climbing", 
+              "name": "Products/Sports & Outdoors/Climbing",
               "size": 437
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Sports & Outdoors/Basketball/Balls", 
+                  "name": "self",
+                  "size": 2052
+                },
+                {
+                  "name": "Products/Sports & Outdoors/Basketball/Balls",
                   "size": 116
                 }
-              ], 
-              "name": "Products/Sports & Outdoors/Basketball", 
+              ],
+              "name": "Products/Sports & Outdoors/Basketball",
               "size": 2052
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Sports & Outdoors/Volleyball/Balls", 
+                  "name": "self",
+                  "size": 191
+                },
+                {
+                  "name": "Products/Sports & Outdoors/Volleyball/Balls",
                   "size": 83
                 }
-              ], 
-              "name": "Products/Sports & Outdoors/Volleyball", 
+              ],
+              "name": "Products/Sports & Outdoors/Volleyball",
               "size": 191
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Sports & Outdoors/Snow Sports/Skiing", 
-                  "size": 2290
-                }, 
+                  "name": "self",
+                  "size": 627
+                },
                 {
-                  "name": "Products/Sports & Outdoors/Snow Sports/Snowboarding", 
+                  "name": "Products/Sports & Outdoors/Snow Sports/Skiing",
+                  "size": 2290
+                },
+                {
+                  "name": "Products/Sports & Outdoors/Snow Sports/Snowboarding",
                   "size": 2725
                 }
-              ], 
-              "name": "Products/Sports & Outdoors/Snow Sports", 
+              ],
+              "name": "Products/Sports & Outdoors/Snow Sports",
               "size": 627
-            }, 
+            },
             {
-              "name": "Products/Sports & Outdoors/Water Sports", 
+              "name": "Products/Sports & Outdoors/Water Sports",
               "size": 2094
-            }, 
+            },
             {
-              "name": "Products/Sports & Outdoors/Skateboarding", 
+              "name": "Products/Sports & Outdoors/Skateboarding",
               "size": 1597
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Sports & Outdoors/Camping & Hiking/Camping Furniture", 
+                  "name": "self",
+                  "size": 12170
+                },
+                {
+                  "name": "Products/Sports & Outdoors/Camping & Hiking/Camping Furniture",
                   "size": 2323
-                }, 
+                },
                 {
-                  "name": "Products/Sports & Outdoors/Camping & Hiking/Heating & Lighting", 
+                  "name": "Products/Sports & Outdoors/Camping & Hiking/Heating & Lighting",
                   "size": 135
-                }, 
+                },
                 {
-                  "name": "Products/Sports & Outdoors/Camping & Hiking/Camping Tools & Utilities", 
+                  "name": "Products/Sports & Outdoors/Camping & Hiking/Camping Tools & Utilities",
                   "size": 315
-                }, 
+                },
                 {
-                  "name": "Products/Sports & Outdoors/Camping & Hiking/Tents, Shelters & Sleeping Bags", 
+                  "name": "Products/Sports & Outdoors/Camping & Hiking/Tents, Shelters & Sleeping Bags",
                   "size": 1107
                 }
-              ], 
-              "name": "Products/Sports & Outdoors/Camping & Hiking", 
+              ],
+              "name": "Products/Sports & Outdoors/Camping & Hiking",
               "size": 12170
-            }, 
+            },
             {
-              "name": "Products/Sports & Outdoors/Exercise & Fitness", 
+              "name": "Products/Sports & Outdoors/Exercise & Fitness",
               "size": 8228
-            }, 
+            },
             {
               "children": [
                 {
-                  "name": "Products/Sports & Outdoors/Baseball & Softball/Balls", 
+                  "name": "self",
+                  "size": 6837
+                },
+                {
+                  "name": "Products/Sports & Outdoors/Baseball & Softball/Balls",
                   "size": 66
-                }, 
+                },
                 {
-                  "name": "Products/Sports & Outdoors/Baseball & Softball/Shoes", 
+                  "name": "Products/Sports & Outdoors/Baseball & Softball/Shoes",
                   "size": 14
-                }, 
+                },
                 {
-                  "name": "Products/Sports & Outdoors/Baseball & Softball/Protective Gear", 
+                  "name": "Products/Sports & Outdoors/Baseball & Softball/Protective Gear",
                   "size": 11
                 }
-              ], 
-              "name": "Products/Sports & Outdoors/Baseball & Softball", 
+              ],
+              "name": "Products/Sports & Outdoors/Baseball & Softball",
               "size": 6837
             }
-          ], 
-          "name": "Products/Sports & Outdoors", 
+          ],
+          "name": "Products/Sports & Outdoors",
           "size": 205070
-        }, 
+        },
         {
-          "name": "Products/Beauty/Bath & Body", 
+          "name": "Products/Beauty/Bath & Body",
           "size": 2
-        }, 
+        },
         {
-          "name": "Products/Beauty/Fragrance/Sets", 
+          "name": "Products/Beauty/Fragrance/Sets",
           "size": 1
         }
-      ], 
-      "name": "Products", 
+      ],
+      "name": "Products",
       "size": 980566
-    }, 
+    },
     {
-      "name": "Uncategorized", 
+      "name": "Uncategorized",
       "size": 2018192
     }
-  ], 
-  "name": "root", 
+  ],
+  "name": "root",
   "size": 0
 }
